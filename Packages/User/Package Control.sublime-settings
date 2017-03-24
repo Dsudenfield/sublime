@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Autocomplete Javascript with Method Signature",
+		"AutoFileName",
+		"Babel",
+		"Blade Snippets",
+		"Blade Spacer",
+		"Codebug",
+		"DocBlockr",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
+		"JavaScript & NodeJS Snippets",
+		"jQuery",
+		"Laravel 5 Artisan",
+		"Laravel Blade Highlighter",
+		"Laravel Forms Bootstrap Snippets",
+		"MarkdownHighlighting",
+		"Package Control",
+		"PHP Companion",
+		"ReactJS Snippets",
+		"SCSS Snippets",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Syntax Highlighting for Sass",
+		"Theme - Kronuz",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets"
+	]
+}
