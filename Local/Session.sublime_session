@@ -2,16 +2,24 @@
 	"folder_history":
 	[
 		"/Users/dan/Sites/a17-dev-server/projects/elanco-affiliate-contentful",
-		"/Volumes/dan/bpm15",
-		"/Users/dan/Sites/a17-dev-server/projects/olympus",
 		"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel",
-		"/Users/dan/Sites/verizon-digital-future",
+		"/Users/dan/Sites/a17-dev-server/projects/verizon-digital-future",
+		"/Users/dan/Sites/sudensel",
+		"/Users/dan/Sites/sonyasel",
+		"/Users/dan/Sites/stuff/testLaravel",
 		"/Volumes/dan/lpad14",
-		"/Volumes/dan/npaf",
-		"/Users/dan/Sites/a17-dev-server/projects/verizon",
+		"/Users/dan/Sites/a17-dev-server/projects/olympus",
 		"/Users/dan/Sites/a17-dev-server/projects/blue-harvest",
 		"/Users/dan/Sites/a17-dev-server",
-		"/Users/dan/Sites/a17-dev-server/projects/verizon-digital-future",
+		"/Users/dan/Sites/a17-dev-server/projects/lilly",
+		"/Volumes/dan-1/lpad14",
+		"/Users/dan/Sites/a17-dev-server/projects/arp-canada",
+		"/Users/dan/Sites/a17-dev-server/projects/spring",
+		"/Users/dan/Sites/stuff/spring",
+		"/Volumes/dan/npaf",
+		"/Volumes/dan/bpm15",
+		"/Users/dan/Sites/verizon-digital-future",
+		"/Users/dan/Sites/a17-dev-server/projects/verizon",
 		"/Volumes/dan",
 		"/Users/dan/Sites/blue-harvest",
 		"/Users/dan/Sites/tools",
@@ -19,7 +27,6 @@
 		"/Users/dan/Sites/test/a17-dev-server",
 		"/Users/dan/Sites/a17-dev-server/projects/lilly-com",
 		"/Users/dan/Sites/GSIT_LYDC_LILLY.COM",
-		"/Users/dan/Sites/a17-dev-server/projects/arp-canada",
 		"/Users/dan/Sites/lilly-executive-vision",
 		"/Users/dan/Sites/database-pull",
 		"/Users/dan/Sites/a17-dev-server/projects",
@@ -45,17 +52,81 @@
 		"/Users/dan/Sites/alz"
 	],
 	"last_version": 3126,
-	"last_window_id": 266,
+	"last_window_id": 371,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 902.0,
+		"new_window_height": 1032.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"filtere",
+						"filtered_keys"
+					],
+					[
+						"categ",
+						"categories"
+					],
+					[
+						"small",
+						"small-12"
+					],
+					[
+						"inline",
+						"inline-block\t(master.blade.php)"
+					],
+					[
+						"margin",
+						"margin-bottom\t(_product-page.scss)"
+					],
+					[
+						"te",
+						"text-center\t(about.blade.php)"
+					],
+					[
+						"padding",
+						"padding"
+					],
+					[
+						"font-",
+						"font-size"
+					],
+					[
+						"create",
+						"createdb\t(add-project.sh)"
+					],
+					[
+						"va",
+						"vagrant-back.yaml"
+					],
+					[
+						"vagr",
+						"vagrant.yaml\t(ProjectAdd.php)"
+					],
+					[
+						"P",
+						"PROJECT_NAME"
+					],
+					[
+						"image_",
+						"image_alt_tag"
+					],
+					[
+						"margin-",
+						"margin-left"
+					],
+					[
+						"branding",
+						"branding-modal"
+					],
+					[
+						"text",
+						"text-align"
+					],
 					[
 						"meta",
 						"meta_data"
@@ -67,10 +138,6 @@
 					[
 						"meta_",
 						"meta_data"
-					],
-					[
-						"font-",
-						"font-family"
 					],
 					[
 						"font",
@@ -103,10 +170,6 @@
 					[
 						"marg",
 						"margin-bottom\t(500.blade.php)"
-					],
-					[
-						"text",
-						"text-align\t(500.blade.php)"
 					],
 					[
 						"back",
@@ -404,10 +467,18 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 27.0,
-				"last_filter": "",
+				"height": 381.0,
+				"last_filter": "pa",
 				"selected_items":
 				[
+					[
+						"pa",
+						"Package Control: List Packages"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
 					[
 						"packa",
 						"Package Control: List Packages"
@@ -415,10 +486,6 @@
 					[
 						"html",
 						"HTMLBeautify"
-					],
-					[
-						"package",
-						"Package Control: Remove Package"
 					],
 					[
 						"remove",
@@ -453,7 +520,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 467.0
+				"width": 477.0
 			},
 			"console":
 			{
@@ -476,19 +543,83 @@
 			},
 			"file_history":
 			[
-				"/Volumes/dan/bpm15/functions-local.php",
-				"/Volumes/dan/bpm15/templates/page.mustache",
+				"/Users/dan/Sites/sonyasel/README.md",
+				"/Users/dan/Sites/sonyasel/webpack.config.js",
+				"/Users/dan/Sites/sonyasel/npm-shrinkwrap.json",
+				"/Users/dan/Sites/sonyasel/package.json",
+				"/Users/dan/Sites/sonyasel/.babelrc",
+				"/Users/dan/Sites/a17-dev-server/projects/verizon-digital-future/resources/assets/sass/_featured-post.scss",
+				"/Users/dan/Sites/a17-dev-server/projects/verizon-digital-future/resources/views/interactives/connecting-california.blade.php",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/upgrade-wordpress.sh",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/wordpress_back_4.7.1-alpha-39664/wp-activate.php",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/wordpress/wp-config.php",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/wordpress/index.php",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/wordpress/alipes_wordpress_config.php",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/wordpress_back_4.7.1-alpha-39664/alipes_wordpress_config.php",
+				"/Volumes/dan-1/lpad14/our-work/scss/sstyle.scss",
+				"/Volumes/dan-1/lpad14/scss/shortener.scss",
+				"/Volumes/dan-1/lpad14/shortener.html",
+				"/Volumes/dan-1/lpad14/shortener.css",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/package.json",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/npm-shrinkwrap.json",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/webpack.mix.js",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/yarn.lock",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/app.scss",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/_page-page.scss",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/product.blade.php",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/about.blade.php",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/js/page.js",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/wordpress/wp-admin/about.php",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/js/app.js",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/laravel-mix/package.json",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/composer.json",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/laravel-mix/setup/webpack.mix.js",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/.babelrc",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/babel-core/lib/transformation/file/options/option-manager.js",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/layouts/master.blade.php",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/laravel-mix/src/index.js",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/bs-recipes/recipes/webpack.babel/.npmignore",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/bubleify/.babelrc",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/_about-page.scss",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/.watch-config.json",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/_product-page.scss",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/js/foundation.js",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/css/app.6594738cf0932f5b4b67.css",
+				"/Users/dan/Sites/tools/screenshot-app/inputs/elanco-us-screenshot/us_swine.json",
+				"/Users/dan/Sites/tools/screenshot-app/inputs/elanco-us-screenshot/us_poultry.json",
+				"/Users/dan/Sites/a17-dev-server/projects/olympus/resources/assets/js/acrypt.js",
+				"/Users/dan/Sites/a17-dev-server/projects/olympus/resources/assets/js/store.js",
+				"/Users/dan/Sites/a17-dev-server/projects/olympus/npm-shrinkwrap.json",
+				"/Users/dan/Sites/a17-dev-server/projects/olympus/resources/assets/js/words.js",
+				"/Users/dan/Sites/a17-dev-server/projects/olympus/resources/assets/js/header.js",
+				"/Users/dan/Sites/a17-dev-server/projects/olympus/routes/api.php",
+				"/Users/dan/Sites/a17-dev-server/projects/olympus/webpack.mix.js",
+				"/Users/dan/Sites/a17-dev-server/projects/olympus/config/database.php",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/views/presentation/ctu.blade.php",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/views/presentation/analog.blade.php",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/views/layouts/app.blade.php",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/app/Http/Middleware/HttpSuperSimpleAuth.php",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/.env",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/routes/web.php",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/views/modals/modal.blade.php",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/gulpfile.js",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/views/presentation/presentation.blade.php",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/app/Http/Controllers/PresentationPageController.php",
+				"/Users/dan/Sites/a17-dev-server/provisioning/mysql.sh",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/app/Http/Controllers/PageController.php",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/composer.lock",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/composer.json",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/views/presentation/sturbridge.blade.php",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/views/presentation/alaska.blade.php",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/views/presentation/state_street.blade.php",
+				"/Users/dan/Sites/a17-dev-server/bootstrap-user.sh",
+				"/Users/dan/Sites/a17-dev-server/vagrant.yaml",
+				"/Users/dan/Sites/a17-dev-server/projects/elanco-affiliate-contentful/composer.json",
+				"/Users/dan/Sites/a17-dev-server/projects/elanco-affiliate-contentful/composer.lock",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/js/app.js",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/uglify-js/package.json",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/package.json",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/app.scss",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/_foundation.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/composer.json",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/composer.lock",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/npm-shrinkwrap.json",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/laravel-mix/setup/webpack.mix.js",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/js/foundation.js",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/_primary-nav.scss",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/app/Http/Controllers/PostController.php",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/app/Http/Controllers/Controller.php",
@@ -500,14 +631,11 @@
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/app/LaraPost.php",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/news.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/routes/web.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/layouts/master.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/about.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/fleet.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/home.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/page.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/post.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/posts.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/product.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/storage/framework/views/72691baa7eaeb8dadc47d7475ed56b48bb924536.php",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/stewardship.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/partials/home/_now_and_forever.blade.php",
@@ -524,23 +652,15 @@
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/js/new.js",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/js/header.js",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/laravel-mix/src/Concat.js",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/js/app.js",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/set-wp-env.php",
 				"/Users/dan/Sites/a17-dev-server/app/Console/Commands/ProjectAdd.php",
 				"/Users/dan/Sites/a17-dev-server/projects/verizon-digital-future/composer.json",
 				"/Users/dan/Sites/a17-dev-server/projects/verizon-digital-future/composer.lock",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/views/presentation/presentation.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/assets/sass/foundation/ctu-presentation.scss",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/views/presentation/fidelity.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/views/presentation/ctu.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/.gulp-config.json",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/public/css/presentation.css",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/assets/sass/presentation.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/routes/web.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/app/Http/Controllers/PageController.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/.env",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/views/layouts/app.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/gulpfile.js",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/assets/sass/site.scss",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/assets/sass/development.scss",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/views/presentation/npaf.blade.php",
@@ -550,71 +670,19 @@
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/laravel-mix/setup/webpack.config.js",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/.env",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/layouts/footer.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/js/app.f89f51fa25de39438057.js",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/app/Helpers/helpers.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/laravel-mix/src/Versioning.js",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/laravel-mix/src/Mix.js",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/laravel-mix/coverage/Mix.js.html",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/_post-page.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/app/Pagination/CustomLengthAwarePaginator.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/laravel/framework/src/Illuminate/Pagination/AbstractPaginator.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/laravel/framework/src/Illuminate/Pagination/resources/views/default.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/sections/_hero-image.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/_fonts.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/wordpress/wp-admin/about.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/laravel/framework/src/Illuminate/Pagination/UrlWindow.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/js/share-widget.js",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/jgrossi/corcel/src/Post.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/errors/500.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/jgrossi/corcel/src/Page.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/laravel/framework/src/Illuminate/Pagination/LengthAwarePaginator.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/layouts/primary-nav.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/app/pagination/CustomLengthAwarePaginator.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/app/pagination/CustomUrlWindow.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/laravel/framework/src/Illuminate/Contracts/Pagination/LengthAwarePaginator.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/app/Pagination/LengthPaginator.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/config/session.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/config/cache.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/.gitignore",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/app/LengthPaginator.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/layouts/page.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/pagination",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/pagination/default.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/laravel/framework/src/Illuminate/Contracts/Support/Htmlable.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/laravel/framework/src/Illuminate/Pagination/resources/views/simple-default.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/laravel/framework/src/Illuminate/Pagination/Paginator.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/alipes/database-pull/src/Database/Commands/DatabasePull.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/errors/404.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/_not-found.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/errors/503.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/img/404_preserver.png",
-				"/Users/dan/Desktop/untitled.html",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/_motion.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/_page-page.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/config/app.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/pages/product-category.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/_product-page.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/_footer.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/app/Http/Controllers/FilterController.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/web.config",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/_careers-page.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/bootstrap/autoload.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/app/Providers/AppServiceProvider.php"
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/layouts/footer.blade.php"
 			],
 			"find":
 			{
-				"height": 35.0
+				"height": 33.0
 			},
 			"find_in_files":
 			{
-				"height": 93.0,
+				"height": 92.0,
 				"where_history":
 				[
-					"/Volumes/dan/bpm15",
+					"/Users/dan/Sites/a17-dev-server/projects/lilly/database/migrations",
+					"",
 					"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/js",
 					"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources",
 					"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resource",
@@ -699,134 +767,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"site_url",
-					"twitter:title",
-					"zurb",
+					"data",
+					"carousels",
+					"transition",
+					"console",
+					"transition",
+					"append",
+					"button",
+					"slide_index_array",
+					"babel",
+					"ugli",
+					"width: 50",
+					"width",
+					"dump",
+					"has",
+					"related",
+					"related_po",
+					"relate_po",
+					"related_po",
+					"inter",
+					"int",
+					"inter",
+					"host",
+					"hsot",
+					"CONTENTFUL_SPACE",
+					"search-button",
+					"search",
+					"submit",
+					"button",
+					"7bb1d72ae2087dd1a4af526afec15eed17dda475",
+					"\"webpack\"",
+					"webpack",
+					"webpack-sy",
+					"webpack",
+					"resolvePresets",
+					"bio\"",
+					"scroll",
+					"bio\"",
+					"</div>",
+					"<div class=\"columns medium-9\">",
+					"<div class=\"columns medium-3\">",
+					"\"",
+					" \"",
+					"\"",
+					"$(document).foundation();",
+					"scrollreveal",
+					"founda",
 					"foundation",
-					"require",
-					"post",
-					"metas",
-					"acf",
-					"_",
-					"underscore",
-					"whatinput",
-					"what-input",
-					"\"php\"",
-					"php",
-					"acf",
-					"meta_data",
-					"['",
-					"e611f0599b4859",
-					"['",
-					"{'",
-					"rejectPostBridgeToPage",
-					".js",
-					"webfo",
-					"async",
-					"scr",
-					"textSlideColorChange",
-					"ext-slider",
-					"green",
-					"ctu-",
-					"modal",
-					"small",
-					"bg-color",
-					"watch",
-					"eatch",
-					".watch",
-					"modal",
-					"}\n",
-					"line-heig",
-					"line-",
-					"video-overlay",
-					"elanco",
-					"narrative",
-					"blue",
-					"strong",
-					"narr",
-					"modal",
-					">>>",
-					"<<<",
-					"head",
-					"background-color: tra",
-					"background-color:",
-					"bac",
-					".js",
-					"foundati",
-					".js",
-					"mix",
-					".js",
-					"fs",
-					"internal",
-					"child",
-					"|",
-					"2",
-					"shrin",
-					"produc",
-					"//",
-					"Versioning",
-					"mix-manifest",
-					"node",
-					"social-links-body",
-					"span",
-					"render",
-					"bhf_front_page_logo_white",
-					"bhf_front_page_section1",
-					"bhf_front_page_logo_white",
-					"d",
-					"dd",
-					"dump",
-					"$id",
-					"id",
-					"dd",
-					"dump",
-					"$this->path",
-					"dd(",
-					"section('tit",
-					"title",
-					"+",
-					"lastItem",
-					"body_classes",
-					"cache_key_home_prefix",
-					"body_class",
-					"getPostsList",
-					"pagin",
-					"====",
-					";",
-					"dump",
-					"__get",
-					"no-image",
-					"getAttribute",
-					"__",
-					"dum",
-					"__isset",
-					"property_exists",
-					"__get",
-					"meta",
-					"dd(",
-					"\">\n",
-					"dd(",
-					"abstract",
-					"bhf_front",
-					"Request",
-					"Redirect",
-					" (",
-					"total",
-					"customPaginate",
-					"UrlWindow",
-					"setCurrentPage",
-					"currentPage",
-					"hasMorePages",
-					"currentPage",
-					"hasMorePages",
-					"Request",
-					"Redirect",
-					"RedirectResponse",
-					"get",
-					"window",
-					"dd(",
-					"dd)",
-					"dump"
+					"reveal",
+					".reveal",
+					"product-detail-icon",
+					"columns medium-10",
+					"columns medium-2",
+					"columns medium-10",
+					"columns medium-2",
+					"columns large-4 medium-6",
+					"console",
+					"nextSlide",
+					"console",
+					"lockdown",
+					"next",
+					"consol",
+					"console",
+					"/img/",
+					"slide(",
+					"slide",
+					"slideImgRight",
+					"whichTransitionEvent",
+					"load",
+					"web",
+					"router",
+					"route",
+					"option",
+					"template",
+					"App",
+					"\"img/",
+					"overlay-small",
+					"asse",
+					"fetchView",
+					".reve",
+					"Website",
+					"integrate",
+					"word",
+					"else",
+					"createdb",
+					"create-db",
+					"mys",
+					"my",
+					"CREATE",
+					"grant ",
+					"grant",
+					"CACHE_DRIVE",
+					"variant",
+					"contentf",
+					"content",
+					"&& php artis",
+					"contentf",
+					"content",
+					"gulp",
+					"key:genera",
+					"image_ur",
+					"<img",
+					"alas",
+					"reveal",
+					"q-earnings-3",
+					"lilly-104-anniversary",
+					"<a",
+					"include",
+					"branding-modal",
+					"branding",
+					"branding-modal",
+					"view_name",
+					"no-coo",
+					"prepend",
+					"addToJsonArray",
+					"<img",
+					"content",
+					"margin",
+					"presentation",
+					"body",
+					"bpdy",
+					"body",
+					"drop",
+					"capabili",
+					"capabilities",
+					"proud",
+					"h2",
+					"3.7",
+					"h2"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -844,7 +912,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 23.0
+				"height": 25.0
 			},
 			"input":
 			{
@@ -866,7 +934,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 42.0
+				"height": 46.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -876,24 +944,244 @@
 				"selected_items":
 				[
 					[
-						"compose",
-						"composer.json"
+						"read",
+						"README.md"
+					],
+					[
+						"postcon",
+						"app/Http/Controllers/PostController.php"
+					],
+					[
+						"pagecont",
+						"app/Http/Controllers/PageController.php"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"package",
+						"package.json"
+					],
+					[
+						"api.",
+						"routes/api.php"
+					],
+					[
+						"web",
+						"routes/web.php"
 					],
 					[
 						"upgrade",
 						"upgrade-wordpress.sh"
 					],
 					[
-						"web",
-						"webpack.mix.js"
+						"upgr",
+						"upgrade-wordpress.sh"
+					],
+					[
+						".e",
+						".env"
+					],
+					[
+						".scss",
+						"our-work/scss/sstyle.scss"
+					],
+					[
+						"shortner",
+						"shortener.html"
+					],
+					[
+						"shortener.sc",
+						"scss/shortener.scss"
+					],
+					[
+						"sho",
+						"shortener.css"
+					],
+					[
+						"page.js",
+						"resources/assets/js/page.js"
+					],
+					[
+						"about",
+						"resources/views/about.blade.php"
+					],
+					[
+						"shrin",
+						"npm-shrinkwrap.json"
 					],
 					[
 						"webpac",
 						"webpack.mix.js"
 					],
 					[
+						"packag",
+						"package.json"
+					],
+					[
+						"webpa",
+						"webpack.mix.js"
+					],
+					[
+						"master",
+						"resources/views/layouts/master.blade.php"
+					],
+					[
+						"option-manager",
+						"node_modules/babel-core/lib/transformation/file/options/option-manager.js"
+					],
+					[
+						".babe",
+						"node_modules/bubleify/.babelrc"
+					],
+					[
+						".babel",
+						"node_modules/bubleify/.babelrc"
+					],
+					[
+						"webpack.mix",
+						"node_modules/laravel-mix/setup/webpack.mix.js"
+					],
+					[
+						"webpack.",
+						"webpack.mix.js"
+					],
+					[
+						"packa",
+						"package.json"
+					],
+					[
 						"composer",
 						"composer.json"
+					],
+					[
+						"webpack.mi",
+						"webpack.mix.js"
+					],
+					[
+						"presentation.scss",
+						"resources/assets/sass/presentation.scss"
+					],
+					[
+						"steelmas",
+						"resources/views/presentation/steelmaster.blade.php"
+					],
+					[
+						"ctu",
+						"resources/views/presentation/ctu.blade.php"
+					],
+					[
+						"shrink",
+						"npm-shrinkwrap.json"
+					],
+					[
+						"api",
+						"routes/api.php"
+					],
+					[
+						"data",
+						"config/database.php"
+					],
+					[
+						"usercon",
+						"app/Http/Controllers/UserController.php"
+					],
+					[
+						"prese",
+						"resources/views/presentation/presentation.blade.php"
+					],
+					[
+						"app.b",
+						"resources/views/layouts/app.blade.php"
+					],
+					[
+						"app.bla",
+						"resources/views/layouts/app.blade.php"
+					],
+					[
+						"presenpage",
+						"app/Http/Controllers/PresentationPageController.php"
+					],
+					[
+						"gulp",
+						"gulpfile.js"
+					],
+					[
+						"analo",
+						"resources/views/presentation/analog.blade.php"
+					],
+					[
+						"boots",
+						"bootstrap-user.sh"
+					],
+					[
+						"vagran",
+						"vagrant.yaml"
+					],
+					[
+						"vagrant-",
+						"vagrant-back.yaml"
+					],
+					[
+						"vagr",
+						"vagrant.yaml"
+					],
+					[
+						"add",
+						"add-project.sh"
+					],
+					[
+						"compose",
+						"composer.json"
+					],
+					[
+						"pagecon",
+						"app/Http/Controllers/PageController.php"
+					],
+					[
+						"compos",
+						"composer.lock"
+					],
+					[
+						"presentat",
+						"resources/assets/sass/presentation.scss"
+					],
+					[
+						"presentation.nlade",
+						"resources/views/presentation/presentation.blade.php"
+					],
+					[
+						"presentationpage",
+						"app/Http/Controllers/PresentationPageController.php"
+					],
+					[
+						"presen",
+						"resources/views/presentation/presentation.blade.php"
+					],
+					[
+						"stur",
+						"resources/views/presentation/sturbridge.blade.php"
+					],
+					[
+						"page",
+						"app/Http/Controllers/PageController.php"
+					],
+					[
+						"present",
+						"resources/views/presentation/presentation.blade.php"
+					],
+					[
+						"app.blad",
+						"resources/views/layouts/app.blade.php"
+					],
+					[
+						"presne",
+						"resources/assets/sass/presentation.scss"
+					],
+					[
+						"presentation.bla",
+						"resources/views/presentation/presentation.blade.php"
 					],
 					[
 						"npm",
@@ -912,16 +1200,8 @@
 						"npm-shrinkwrap.json"
 					],
 					[
-						"shrin",
-						"npm-shrinkwrap.json"
-					],
-					[
 						"webpack",
 						"node_modules/laravel-mix/setup/webpack.mix.js"
-					],
-					[
-						"packag",
-						"package.json"
 					],
 					[
 						"control",
@@ -930,10 +1210,6 @@
 					[
 						"pageco",
 						"app/Http/Controllers/PageController.php"
-					],
-					[
-						"postcon",
-						"app/Http/Controllers/PostController.php"
 					],
 					[
 						"controller",
@@ -946,10 +1222,6 @@
 					[
 						"contr",
 						"app/Http/Controllers/Controller.php"
-					],
-					[
-						"pagecon",
-						"app/Http/Controllers/PageController.php"
 					],
 					[
 						"postconr",
@@ -984,51 +1256,15 @@
 						"resources/views/stewardship.blade.php"
 					],
 					[
-						"master",
-						"resources/views/layouts/master.blade.php"
-					],
-					[
 						"e611f0599b4859",
 						"storage/framework/views/e611f0599b48597806ded3484613b60b059c1410.php"
-					],
-					[
-						"shrink",
-						"npm-shrinkwrap.json"
-					],
-					[
-						"webpack.mi",
-						"node_modules/laravel-mix/setup/webpack.mix.js"
-					],
-					[
-						"webpack.mix",
-						"node_modules/laravel-mix/setup/webpack.mix.js"
 					],
 					[
 						"set",
 						"set-wp-env.php"
 					],
 					[
-						"add",
-						"add-project.sh"
-					],
-					[
 						"presentation.ba",
-						"resources/views/presentation/presentation.blade.php"
-					],
-					[
-						"gulp",
-						"gulpfile.js"
-					],
-					[
-						"packa",
-						"package.json"
-					],
-					[
-						"ctu",
-						"resources/views/presentation/ctu.blade.php"
-					],
-					[
-						"present",
 						"resources/views/presentation/presentation.blade.php"
 					],
 					[
@@ -1038,10 +1274,6 @@
 					[
 						"presentation",
 						"resources/assets/sass/presentation.scss"
-					],
-					[
-						".env",
-						".env"
 					],
 					[
 						"site.scss",
@@ -1066,10 +1298,6 @@
 					[
 						"app.ab",
 						"resources/views/layouts/app.blade.php"
-					],
-					[
-						"presentation.bla",
-						"resources/views/presentation/presentation.blade.php"
 					],
 					[
 						"pagec",
@@ -1100,20 +1328,12 @@
 						"node_modules/laravel-mix/setup/webpack.mix.js"
 					],
 					[
-						"compos",
-						"composer.json"
-					],
-					[
 						"w",
 						"webpack.mix.js"
 					],
 					[
 						"mix",
 						"public/mix-manifest.json"
-					],
-					[
-						"boots",
-						"bootstrap-user.sh"
 					],
 					[
 						"versioning",
@@ -1152,20 +1372,12 @@
 						"resources/views/about.blade.php"
 					],
 					[
-						"about",
-						"public/wordpress/wp-admin/about.php"
-					],
-					[
 						"post.b",
 						"resources/views/post.blade.php"
 					],
 					[
 						"_fonts",
 						"resources/assets/sass/_fonts.scss"
-					],
-					[
-						".e",
-						".env"
 					],
 					[
 						"customle",
@@ -1224,10 +1436,6 @@
 						"vendor/laravel/framework/src/Illuminate/Pagination/LengthAwarePaginator.php"
 					],
 					[
-						"page",
-						"resources/views/page.blade.php"
-					],
-					[
 						"fleet.",
 						"resources/views/fleet.blade.php"
 					],
@@ -1246,146 +1454,6 @@
 					[
 						"session",
 						"config/session.php"
-					],
-					[
-						"cahce",
-						"config/cache.php"
-					],
-					[
-						"paginationdefaul",
-						"vendor/laravel/framework/src/Illuminate/Pagination/resources/views/default.blade.php"
-					],
-					[
-						"postco",
-						"app/Http/Controllers/PostController.php"
-					],
-					[
-						"abstractpa",
-						"vendor/laravel/framework/src/Illuminate/Pagination/AbstractPaginator.php"
-					],
-					[
-						".gitin",
-						".gitignore"
-					],
-					[
-						"package",
-						"package.json"
-					],
-					[
-						"paginatordefu",
-						"vendor/laravel/framework/src/Illuminate/Pagination/resources/views/simple-default.blade.php"
-					],
-					[
-						".gt",
-						".gitignore"
-					],
-					[
-						"app.sc",
-						"resources/assets/sass/app.scss"
-					],
-					[
-						".gitig",
-						".gitignore"
-					],
-					[
-						"databasepul",
-						"vendor/alipes/database-pull/src/Database/Commands/DatabasePull.php"
-					],
-					[
-						"fleet",
-						"resources/views/fleet.blade.php"
-					],
-					[
-						"404",
-						"resources/views/errors/404.blade.php"
-					],
-					[
-						"stew",
-						"resources/views/stewardship.blade.php"
-					],
-					[
-						"produ",
-						"resources/views/product.blade.php"
-					],
-					[
-						"post.bla",
-						"resources/views/post.blade.php"
-					],
-					[
-						"postcont",
-						"app/Http/Controllers/PostController.php"
-					],
-					[
-						"produc",
-						"resources/views/product.blade.php"
-					],
-					[
-						"app.scs",
-						"resources/assets/sass/app.scss"
-					],
-					[
-						"_page",
-						"resources/assets/sass/_page-page.scss"
-					],
-					[
-						"configap",
-						"config/app.php"
-					],
-					[
-						"configapp",
-						"config/app.php"
-					],
-					[
-						"page.blade",
-						"resources/views/page.blade.php"
-					],
-					[
-						"com",
-						"composer.lock"
-					],
-					[
-						"postcp",
-						"app/Http/Controllers/PostController.php"
-					],
-					[
-						"page.bla",
-						"resources/views/page.blade.php"
-					],
-					[
-						"_produ",
-						"resources/assets/sass/_product-page.scss"
-					],
-					[
-						"filter",
-						"app/Http/Controllers/FilterController.php"
-					],
-					[
-						"72691baa7eaeb8d",
-						"storage/framework/views/72691baa7eaeb8dadc47d7475ed56b48bb924536.php"
-					],
-					[
-						"web.",
-						"public/web.config"
-					],
-					[
-						"_new",
-						"resources/views/partials/home/_news.blade.php"
-					],
-					[
-						"bootstapautolo",
-						"bootstrap/autoload.php"
-					],
-					[
-						"appserv",
-						"app/Providers/AppServiceProvider.php"
-					],
-					[
-						".git",
-						".gitignore"
-					],
-					[
-						"p",
-						"package.json"
 					]
 				],
 				"width": 0.0
@@ -1412,13 +1480,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 251.0,
+			"side_bar_width": 266.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1168.0
+		"new_window_width": 1920.0
 	},
 	"windows":
 	[
@@ -1428,16 +1496,68 @@
 				"selected_items":
 				[
 					[
+						"filtere",
+						"filtered_keys"
+					],
+					[
+						"categ",
+						"categories"
+					],
+					[
+						"small",
+						"small-12"
+					],
+					[
+						"inline",
+						"inline-block\t(master.blade.php)"
+					],
+					[
 						"margin",
-						"margin"
+						"margin-bottom\t(_product-page.scss)"
+					],
+					[
+						"te",
+						"text-center\t(about.blade.php)"
+					],
+					[
+						"padding",
+						"padding"
+					],
+					[
+						"font-",
+						"font-size"
+					],
+					[
+						"create",
+						"createdb\t(add-project.sh)"
+					],
+					[
+						"va",
+						"vagrant-back.yaml"
+					],
+					[
+						"vagr",
+						"vagrant.yaml\t(ProjectAdd.php)"
+					],
+					[
+						"P",
+						"PROJECT_NAME"
+					],
+					[
+						"image_",
+						"image_alt_tag"
+					],
+					[
+						"margin-",
+						"margin-left"
+					],
+					[
+						"branding",
+						"branding-modal"
 					],
 					[
 						"text",
 						"text-align"
-					],
-					[
-						"padding",
-						"padding-bottom"
 					],
 					[
 						"meta",
@@ -1450,10 +1570,6 @@
 					[
 						"meta_",
 						"meta_data"
-					],
-					[
-						"font-",
-						"font-family"
 					],
 					[
 						"font",
@@ -1780,10 +1896,22 @@
 			"buffers":
 			[
 				{
-					"file": "/Users/dan/Sites/a17-dev-server/projects/elanco-affiliate-contentful/app/Console/Commands/ContentfulListEaPaths.php",
+					"file": "/Users/dan/Sites/a17-dev-server/projects/elanco-affiliate-contentful/.env",
 					"settings":
 					{
-						"buffer_size": 8030,
+						"buffer_size": 931,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "{\n    \"base_url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com\",\n    \"width\": 1200,\n    \"height\": 1548,\n    \"delay\": 2,\n    \"urls\": [\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef\",\n            \"natural_path\": \"/products-services/beef\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef\",\n            \"natural_path\": \"/products-services/beef\",\n            \"variant\": \"menu-expanded\",\n            \"delay\": \"1\",\n            \"js\": \"$('section.product-nav .product-list-toggle > a').click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef\",\n            \"natural_path\": \"/products-services/beef\",\n            \"variant\": \"product-hover-1\",\n            \"delay\": \"1\",\n            \"js\": \"$('section.product-nav .product-list-toggle > a').click(); $($('section.product-nav .product').get(0)).find('.details').show().addClass('hover');\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef\",\n            \"natural_path\": \"/products-services/beef\",\n            \"variant\": \"product-hover-2\",\n            \"delay\": \"1\",\n            \"js\": \"$('section.product-nav .product-list-toggle > a').click(); $($('section.product-nav .product').get(1)).find('.details').show().addClass('hover');\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef\",\n            \"natural_path\": \"/products-services/beef\",\n            \"variant\": \"product-hover-3\",\n            \"delay\": \"1\",\n            \"js\": \"$('section.product-nav .product-list-toggle > a').click(); $($('section.product-nav .product').get(2)).find('.details').show().addClass('hover');\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef\",\n            \"natural_path\": \"/products-services/beef\",\n            \"variant\": \"product-hover-4\",\n            \"delay\": \"1\",\n            \"js\": \"$('section.product-nav .product-list-toggle > a').click(); $($('section.product-nav .product').get(3)).find('.details').show().addClass('hover');\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef\",\n            \"natural_path\": \"/products-services/beef\",\n            \"variant\": \"product-hover-5\",\n            \"delay\": \"1\",\n            \"js\": \"$('section.product-nav .product-list-toggle > a').click(); $($('section.product-nav .product').get(4)).find('.details').show().addClass('hover');\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef\",\n            \"natural_path\": \"/products-services/beef\",\n            \"variant\": \"product-hover-6\",\n            \"delay\": \"1\",\n            \"js\": \"$('section.product-nav .product-list-toggle > a').click(); $($('section.product-nav .product').get(5)).find('.details').show().addClass('hover');\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef\",\n            \"natural_path\": \"/products-services/beef\",\n            \"variant\": \"product-hover-7\",\n            \"delay\": \"1\",\n            \"js\": \"$('section.product-nav .product-list-toggle > a').click(); $($('section.product-nav .product').get(6)).find('.details').show().addClass('hover');\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef\",\n            \"natural_path\": \"/products-services/beef\",\n            \"variant\": \"product-hover-8\",\n            \"delay\": \"1\",\n            \"js\": \"$('section.product-nav .product-list-toggle > a').click(); $($('section.product-nav .product').get(7)).find('.details').show().addClass('hover');\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef\",\n            \"natural_path\": \"/products-services/beef\",\n            \"variant\": \"product-hover-9\",\n            \"delay\": \"1\",\n            \"js\": \"$('section.product-nav .product-list-toggle > a').click(); $($('section.product-nav .product').get(8)).find('.details').show().addClass('hover');\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef\",\n            \"natural_path\": \"/products-services/beef\",\n            \"variant\": \"product-hover-10\",\n            \"delay\": \"1\",\n            \"js\": \"$('section.product-nav .product-list-toggle > a').click(); $($('section.product-nav .product').get(9)).find('.details').show().addClass('hover');\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef\",\n            \"natural_path\": \"/products-services/beef\",\n            \"variant\": \"product-hover-11\",\n            \"delay\": \"1\",\n            \"js\": \"$('section.product-nav .product-list-toggle > a').click(); $($('section.product-nav .product').get(10)).find('.details').show().addClass('hover');\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef\",\n            \"natural_path\": \"/products-services/beef\",\n            \"variant\": \"product-hover-12\",\n            \"delay\": \"1\",\n            \"js\": \"$('section.product-nav .product-list-toggle > a').click(); $($('section.product-nav .product').get(11)).find('.details').show().addClass('hover');\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef\",\n            \"natural_path\": \"/products-services/beef\",\n            \"variant\": \"product-hover-13\",\n            \"delay\": \"1\",\n            \"js\": \"$('section.product-nav .product-list-toggle > a').click(); $($('section.product-nav .product').get(12)).find('.details').show().addClass('hover');\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef\",\n            \"natural_path\": \"/products-services/beef\",\n            \"variant\": \"product-hover-14\",\n            \"delay\": \"1\",\n            \"js\": \"$('section.product-nav .product-list-toggle > a').click(); $($('section.product-nav .product').get(13)).find('.details').show().addClass('hover');\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef\",\n            \"natural_path\": \"/products-services/beef\",\n            \"variant\": \"product-hover-15\",\n            \"delay\": \"1\",\n            \"js\": \"$('section.product-nav .product-list-toggle > a').click(); $($('section.product-nav .product').get(14)).find('.details').show().addClass('hover');\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/component-with-tylan\",\n            \"natural_path\": \"/products-services/beef/component-with-tylan\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/component-with-tylan\",\n            \"natural_path\": \"/products-services/beef/component-with-tylan\",\n            \"variant\": \"attachments-open-1\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[0].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/component-with-tylan\",\n            \"natural_path\": \"/products-services/beef/component-with-tylan\",\n            \"variant\": \"attachments-open-2\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[1].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/long-acting-implants-compudoseencore\",\n            \"natural_path\": \"/products-services/beef/long-acting-implants-compudoseencore\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/long-acting-implants-compudoseencore\",\n            \"natural_path\": \"/products-services/beef/long-acting-implants-compudoseencore\",\n            \"variant\": \"attachments-open-1\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[0].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/long-acting-implants-compudoseencore\",\n            \"natural_path\": \"/products-services/beef/long-acting-implants-compudoseencore\",\n            \"variant\": \"attachments-open-2\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[1].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/master-guard\",\n            \"natural_path\": \"/products-services/beef/master-guard\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/master-guard\",\n            \"natural_path\": \"/products-services/beef/master-guard\",\n            \"variant\": \"attachments-open-1\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[0].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/master-guard\",\n            \"natural_path\": \"/products-services/beef/master-guard\",\n            \"variant\": \"attachments-open-2\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[1].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/micotil\",\n            \"natural_path\": \"/products-services/beef/micotil\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/micotil\",\n            \"natural_path\": \"/products-services/beef/micotil\",\n            \"variant\": \"attachments-open-1\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[0].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/micotil\",\n            \"natural_path\": \"/products-services/beef/micotil\",\n            \"variant\": \"attachments-open-2\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[1].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/nuplura-ph\",\n            \"natural_path\": \"/products-services/beef/nuplura-ph\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/nuplura-ph\",\n            \"natural_path\": \"/products-services/beef/nuplura-ph\",\n            \"variant\": \"attachments-open-1\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[0].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/nuplura-ph\",\n            \"natural_path\": \"/products-services/beef/nuplura-ph\",\n            \"variant\": \"attachments-open-2\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[1].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/optaflexx\",\n            \"natural_path\": \"/products-services/beef/optaflexx\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/optaflexx\",\n            \"natural_path\": \"/products-services/beef/optaflexx\",\n            \"variant\": \"attachments-open-1\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[0].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/optaflexx\",\n            \"natural_path\": \"/products-services/beef/optaflexx\",\n            \"variant\": \"attachments-open-2\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[1].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/optaflexx\",\n            \"natural_path\": \"/products-services/beef/optaflexx\",\n            \"variant\": \"attachments-open-3\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[2].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/pulmotil\",\n            \"natural_path\": \"/products-services/beef/pulmotil\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/pulmotil\",\n            \"natural_path\": \"/products-services/beef/pulmotil\",\n            \"variant\": \"attachments-open-1\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[0].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/pulmotil\",\n            \"natural_path\": \"/products-services/beef/pulmotil\",\n            \"variant\": \"attachments-open-2\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[1].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/pulmotil\",\n            \"natural_path\": \"/products-services/beef/pulmotil\",\n            \"variant\": \"attachments-open-3\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[2].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/rumensin\",\n            \"natural_path\": \"/products-services/beef/rumensin\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/rumensin\",\n            \"natural_path\": \"/products-services/beef/rumensin\",\n            \"variant\": \"attachments-open-1\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[0].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/rumensin\",\n            \"natural_path\": \"/products-services/beef/rumensin\",\n            \"variant\": \"attachments-open-2\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[1].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/rumensin\",\n            \"natural_path\": \"/products-services/beef/rumensin\",\n            \"variant\": \"attachments-open-3\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[2].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/scour-bos\",\n            \"natural_path\": \"/products-services/beef/scour-bos\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/scour-bos\",\n            \"natural_path\": \"/products-services/beef/scour-bos\",\n            \"variant\": \"attachments-open-1\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[0].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/scour-bos\",\n            \"natural_path\": \"/products-services/beef/scour-bos\",\n            \"variant\": \"attachments-open-2\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[1].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/standguard-pour-on\",\n            \"natural_path\": \"/products-services/beef/standguard-pour-on\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/standguard-pour-on\",\n            \"natural_path\": \"/products-services/beef/standguard-pour-on\",\n            \"variant\": \"attachments-open-1\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[0].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/standguard-pour-on\",\n            \"natural_path\": \"/products-services/beef/standguard-pour-on\",\n            \"variant\": \"attachments-open-2\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[1].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/titanium\",\n            \"natural_path\": \"/products-services/beef/titanium\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/titanium\",\n            \"natural_path\": \"/products-services/beef/titanium\",\n            \"variant\": \"attachments-open-1\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[0].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/titanium\",\n            \"natural_path\": \"/products-services/beef/titanium\",\n            \"variant\": \"attachments-open-2\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[1].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/titanium-5-ph-m\",\n            \"natural_path\": \"/products-services/beef/titanium-5-ph-m\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/titanium-5-ph-m\",\n            \"natural_path\": \"/products-services/beef/titanium-5-ph-m\",\n            \"variant\": \"attachments-open-1\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[0].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/titanium-5-ph-m\",\n            \"natural_path\": \"/products-services/beef/titanium-5-ph-m\",\n            \"variant\": \"attachments-open-2\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[1].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/tylan-injection\",\n            \"natural_path\": \"/products-services/beef/tylan-injection\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/tylan-injection\",\n            \"natural_path\": \"/products-services/beef/tylan-injection\",\n            \"variant\": \"attachments-open-1\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[0].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/tylan-injection\",\n            \"natural_path\": \"/products-services/beef/tylan-injection\",\n            \"variant\": \"attachments-open-2\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[1].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/tylan-premix\",\n            \"natural_path\": \"/products-services/beef/tylan-premix\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/tylan-premix\",\n            \"natural_path\": \"/products-services/beef/tylan-premix\",\n            \"variant\": \"attachments-open-1\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[0].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/tylan-premix\",\n            \"natural_path\": \"/products-services/beef/tylan-premix\",\n            \"variant\": \"attachments-open-2\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[1].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/tylan-premix\",\n            \"natural_path\": \"/products-services/beef/tylan-premix\",\n            \"variant\": \"attachments-open-3\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[2].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/vira-shield\",\n            \"natural_path\": \"/products-services/beef/vira-shield\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/vira-shield\",\n            \"natural_path\": \"/products-services/beef/vira-shield\",\n            \"variant\": \"attachments-open-1\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[0].click();\"\n        },\n        {\n            \"url\": \"https://elanco-usaffiliatesite-dev.herokuapp.com/products-services/beef/vira-shield\",\n            \"natural_path\": \"/products-services/beef/vira-shield\",\n            \"variant\": \"attachments-open-2\",\n            \"delay\": \"1\",\n            \"js\": \"$('#attachments').find('a')[1].click();\"\n        }\n    ]\n}\n",
+					"file": "/Users/dan/Sites/a17-dev-server/projects/elanco-affiliate-contentful/beef.json",
+					"file_size": 20830,
+					"file_write_time": 131360731680000000,
+					"settings":
+					{
+						"buffer_size": 20830,
 						"line_ending": "Unix"
 					}
 				}
@@ -1795,10 +1923,18 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 27.0,
-				"last_filter": "",
+				"height": 381.0,
+				"last_filter": "pa",
 				"selected_items":
 				[
+					[
+						"pa",
+						"Package Control: List Packages"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
 					[
 						"packa",
 						"Package Control: List Packages"
@@ -1806,10 +1942,6 @@
 					[
 						"html",
 						"HTMLBeautify"
-					],
-					[
-						"package",
-						"Package Control: Remove Package"
 					],
 					[
 						"remove",
@@ -1844,7 +1976,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 467.0
+				"width": 477.0
 			},
 			"console":
 			{
@@ -1867,24 +1999,87 @@
 			},
 			"expanded_folders":
 			[
-				"/Users/dan/Sites/a17-dev-server/projects/elanco-affiliate-contentful",
-				"/Users/dan/Sites/a17-dev-server/projects/elanco-affiliate-contentful/app",
-				"/Users/dan/Sites/a17-dev-server/projects/elanco-affiliate-contentful/app/Console",
-				"/Users/dan/Sites/a17-dev-server/projects/elanco-affiliate-contentful/app/Console/Commands"
+				"/Users/dan/Sites/a17-dev-server/projects/elanco-affiliate-contentful"
 			],
 			"file_history":
 			[
+				"/Users/dan/Sites/sonyasel/README.md",
+				"/Users/dan/Sites/sonyasel/webpack.config.js",
+				"/Users/dan/Sites/sonyasel/npm-shrinkwrap.json",
+				"/Users/dan/Sites/sonyasel/package.json",
+				"/Users/dan/Sites/sonyasel/.babelrc",
+				"/Users/dan/Sites/a17-dev-server/projects/verizon-digital-future/resources/assets/sass/_featured-post.scss",
+				"/Users/dan/Sites/a17-dev-server/projects/verizon-digital-future/resources/views/interactives/connecting-california.blade.php",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/upgrade-wordpress.sh",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/wordpress_back_4.7.1-alpha-39664/wp-activate.php",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/wordpress/wp-config.php",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/wordpress/index.php",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/wordpress/alipes_wordpress_config.php",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/wordpress_back_4.7.1-alpha-39664/alipes_wordpress_config.php",
+				"/Volumes/dan-1/lpad14/our-work/scss/sstyle.scss",
+				"/Volumes/dan-1/lpad14/scss/shortener.scss",
+				"/Volumes/dan-1/lpad14/shortener.html",
+				"/Volumes/dan-1/lpad14/shortener.css",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/package.json",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/npm-shrinkwrap.json",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/webpack.mix.js",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/yarn.lock",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/app.scss",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/_page-page.scss",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/product.blade.php",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/about.blade.php",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/js/page.js",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/wordpress/wp-admin/about.php",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/js/app.js",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/laravel-mix/package.json",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/composer.json",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/laravel-mix/setup/webpack.mix.js",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/.babelrc",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/babel-core/lib/transformation/file/options/option-manager.js",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/layouts/master.blade.php",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/laravel-mix/src/index.js",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/bs-recipes/recipes/webpack.babel/.npmignore",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/bubleify/.babelrc",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/_about-page.scss",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/.watch-config.json",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/_product-page.scss",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/js/foundation.js",
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/css/app.6594738cf0932f5b4b67.css",
+				"/Users/dan/Sites/tools/screenshot-app/inputs/elanco-us-screenshot/us_swine.json",
+				"/Users/dan/Sites/tools/screenshot-app/inputs/elanco-us-screenshot/us_poultry.json",
+				"/Users/dan/Sites/a17-dev-server/projects/olympus/resources/assets/js/acrypt.js",
+				"/Users/dan/Sites/a17-dev-server/projects/olympus/resources/assets/js/store.js",
+				"/Users/dan/Sites/a17-dev-server/projects/olympus/npm-shrinkwrap.json",
+				"/Users/dan/Sites/a17-dev-server/projects/olympus/resources/assets/js/words.js",
+				"/Users/dan/Sites/a17-dev-server/projects/olympus/resources/assets/js/header.js",
+				"/Users/dan/Sites/a17-dev-server/projects/olympus/routes/api.php",
+				"/Users/dan/Sites/a17-dev-server/projects/olympus/webpack.mix.js",
+				"/Users/dan/Sites/a17-dev-server/projects/olympus/config/database.php",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/views/presentation/ctu.blade.php",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/views/presentation/analog.blade.php",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/views/layouts/app.blade.php",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/app/Http/Middleware/HttpSuperSimpleAuth.php",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/.env",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/routes/web.php",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/views/modals/modal.blade.php",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/gulpfile.js",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/views/presentation/presentation.blade.php",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/app/Http/Controllers/PresentationPageController.php",
+				"/Users/dan/Sites/a17-dev-server/provisioning/mysql.sh",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/app/Http/Controllers/PageController.php",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/composer.lock",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/composer.json",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/views/presentation/sturbridge.blade.php",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/views/presentation/alaska.blade.php",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/views/presentation/state_street.blade.php",
+				"/Users/dan/Sites/a17-dev-server/bootstrap-user.sh",
+				"/Users/dan/Sites/a17-dev-server/vagrant.yaml",
+				"/Users/dan/Sites/a17-dev-server/projects/elanco-affiliate-contentful/composer.json",
+				"/Users/dan/Sites/a17-dev-server/projects/elanco-affiliate-contentful/composer.lock",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/js/app.js",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/uglify-js/package.json",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/package.json",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/app.scss",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/_foundation.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/composer.json",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/composer.lock",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/npm-shrinkwrap.json",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/laravel-mix/setup/webpack.mix.js",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/js/foundation.js",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/_primary-nav.scss",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/app/Http/Controllers/PostController.php",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/app/Http/Controllers/Controller.php",
@@ -1896,14 +2091,11 @@
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/app/LaraPost.php",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/news.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/routes/web.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/layouts/master.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/about.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/fleet.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/home.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/page.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/post.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/posts.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/product.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/storage/framework/views/72691baa7eaeb8dadc47d7475ed56b48bb924536.php",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/stewardship.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/partials/home/_now_and_forever.blade.php",
@@ -1920,23 +2112,15 @@
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/js/new.js",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/js/header.js",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/laravel-mix/src/Concat.js",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/js/app.js",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/set-wp-env.php",
 				"/Users/dan/Sites/a17-dev-server/app/Console/Commands/ProjectAdd.php",
 				"/Users/dan/Sites/a17-dev-server/projects/verizon-digital-future/composer.json",
 				"/Users/dan/Sites/a17-dev-server/projects/verizon-digital-future/composer.lock",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/views/presentation/presentation.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/assets/sass/foundation/ctu-presentation.scss",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/views/presentation/fidelity.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/views/presentation/ctu.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/.gulp-config.json",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/public/css/presentation.css",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/assets/sass/presentation.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/routes/web.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/app/Http/Controllers/PageController.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/.env",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/views/layouts/app.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/gulpfile.js",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/assets/sass/site.scss",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/assets/sass/development.scss",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources/views/presentation/npaf.blade.php",
@@ -1946,72 +2130,19 @@
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/laravel-mix/setup/webpack.config.js",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/.env",
 				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/layouts/footer.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/js/app.f89f51fa25de39438057.js",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/app/Helpers/helpers.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/laravel-mix/src/Versioning.js",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/laravel-mix/src/Mix.js",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/laravel-mix/coverage/Mix.js.html",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/_post-page.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/app/Pagination/CustomLengthAwarePaginator.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/laravel/framework/src/Illuminate/Pagination/AbstractPaginator.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/laravel/framework/src/Illuminate/Pagination/resources/views/default.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/sections/_hero-image.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/_fonts.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/wordpress/wp-admin/about.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/laravel/framework/src/Illuminate/Pagination/UrlWindow.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/js/share-widget.js",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/jgrossi/corcel/src/Post.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/errors/500.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/jgrossi/corcel/src/Page.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/laravel/framework/src/Illuminate/Pagination/LengthAwarePaginator.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/layouts/primary-nav.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/app/pagination/CustomLengthAwarePaginator.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/app/pagination/CustomUrlWindow.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/laravel/framework/src/Illuminate/Contracts/Pagination/LengthAwarePaginator.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/app/Pagination/LengthPaginator.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/config/session.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/config/cache.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/.gitignore",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/app/LengthPaginator.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/layouts/page.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/pagination",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/pagination/default.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/laravel/framework/src/Illuminate/Contracts/Support/Htmlable.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/laravel/framework/src/Illuminate/Pagination/resources/views/simple-default.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/laravel/framework/src/Illuminate/Pagination/Paginator.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/alipes/database-pull/src/Database/Commands/DatabasePull.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/errors/404.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/_not-found.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/errors/503.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/img/404_preserver.png",
-				"/Users/dan/Desktop/untitled.html",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/_motion.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/_page-page.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/config/app.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/pages/product-category.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/_product-page.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/_footer.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/app/Http/Controllers/FilterController.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/public/web.config",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/sass/_careers-page.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/bootstrap/autoload.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/app/Providers/AppServiceProvider.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/vendor/laravel/framework/src/Illuminate/Contracts/Routing/UrlGenerator.php",
-				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/node_modules/laravel-mix/src/Paths.js"
+				"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/views/layouts/footer.blade.php"
 			],
 			"find":
 			{
-				"height": 23.0
+				"height": 25.0
 			},
 			"find_in_files":
 			{
-				"height": 93.0,
+				"height": 92.0,
 				"where_history":
 				[
+					"/Users/dan/Sites/a17-dev-server/projects/lilly/database/migrations",
+					"",
 					"/Users/dan/Sites/a17-dev-server/projects/blue-harvest/resources/assets/js",
 					"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resources",
 					"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/resource",
@@ -2096,6 +2227,120 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"data",
+					"carousels",
+					"transition",
+					"console",
+					"transition",
+					"append",
+					"button",
+					"slide_index_array",
+					"babel",
+					"ugli",
+					"width: 50",
+					"width",
+					"dump",
+					"has",
+					"related",
+					"related_po",
+					"relate_po",
+					"related_po",
+					"inter",
+					"int",
+					"inter",
+					"host",
+					"hsot",
+					"CONTENTFUL_SPACE",
+					"search-button",
+					"search",
+					"submit",
+					"button",
+					"7bb1d72ae2087dd1a4af526afec15eed17dda475",
+					"\"webpack\"",
+					"webpack",
+					"webpack-sy",
+					"webpack",
+					"resolvePresets",
+					"bio\"",
+					"scroll",
+					"bio\"",
+					"</div>",
+					"<div class=\"columns medium-9\">",
+					"<div class=\"columns medium-3\">",
+					"\"",
+					" \"",
+					"\"",
+					"$(document).foundation();",
+					"scrollreveal",
+					"founda",
+					"foundation",
+					"reveal",
+					".reveal",
+					"product-detail-icon",
+					"columns medium-10",
+					"columns medium-2",
+					"columns medium-10",
+					"columns medium-2",
+					"columns large-4 medium-6",
+					"console",
+					"nextSlide",
+					"console",
+					"lockdown",
+					"next",
+					"consol",
+					"console",
+					"/img/",
+					"slide(",
+					"slide",
+					"slideImgRight",
+					"whichTransitionEvent",
+					"load",
+					"web",
+					"router",
+					"route",
+					"option",
+					"template",
+					"App",
+					"\"img/",
+					"overlay-small",
+					"asse",
+					"fetchView",
+					".reve",
+					"Website",
+					"integrate",
+					"word",
+					"else",
+					"createdb",
+					"create-db",
+					"mys",
+					"my",
+					"CREATE",
+					"grant ",
+					"grant",
+					"CACHE_DRIVE",
+					"variant",
+					"contentf",
+					"content",
+					"&& php artis",
+					"contentf",
+					"content",
+					"gulp",
+					"key:genera",
+					"image_ur",
+					"<img",
+					"alas",
+					"reveal",
+					"q-earnings-3",
+					"lilly-104-anniversary",
+					"<a",
+					"include",
+					"branding-modal",
+					"branding",
+					"branding-modal",
+					"view_name",
+					"no-coo",
+					"prepend",
+					"addToJsonArray",
 					"<img",
 					"content",
 					"margin",
@@ -2109,121 +2354,7 @@
 					"proud",
 					"h2",
 					"3.7",
-					"h2",
-					"the case",
-					"hr",
-					"<hr",
-					"hr",
-					"case-studies",
-					"h2",
-					"zurb",
-					"foundation",
-					"require",
-					"post",
-					"metas",
-					"acf",
-					"_",
-					"underscore",
-					"whatinput",
-					"what-input",
-					"\"php\"",
-					"php",
-					"acf",
-					"meta_data",
-					"['",
-					"e611f0599b4859",
-					"['",
-					"{'",
-					"rejectPostBridgeToPage",
-					".js",
-					"webfo",
-					"async",
-					"scr",
-					"textSlideColorChange",
-					"ext-slider",
-					"green",
-					"ctu-",
-					"modal",
-					"small",
-					"bg-color",
-					"watch",
-					"eatch",
-					".watch",
-					"modal",
-					"}\n",
-					"line-heig",
-					"line-",
-					"video-overlay",
-					"elanco",
-					"narrative",
-					"blue",
-					"strong",
-					"narr",
-					"modal",
-					">>>",
-					"<<<",
-					"head",
-					"background-color: tra",
-					"background-color:",
-					"bac",
-					".js",
-					"foundati",
-					".js",
-					"mix",
-					".js",
-					"fs",
-					"internal",
-					"child",
-					"|",
-					"2",
-					"shrin",
-					"produc",
-					"//",
-					"Versioning",
-					"mix-manifest",
-					"node",
-					"social-links-body",
-					"span",
-					"render",
-					"bhf_front_page_logo_white",
-					"bhf_front_page_section1",
-					"bhf_front_page_logo_white",
-					"d",
-					"dd",
-					"dump",
-					"$id",
-					"id",
-					"dd",
-					"dump",
-					"$this->path",
-					"dd(",
-					"section('tit",
-					"title",
-					"+",
-					"lastItem",
-					"body_classes",
-					"cache_key_home_prefix",
-					"body_class",
-					"getPostsList",
-					"pagin",
-					"====",
-					";",
-					"dump",
-					"__get",
-					"no-image",
-					"getAttribute",
-					"__",
-					"dum",
-					"__isset",
-					"property_exists",
-					"__get",
-					"meta",
-					"dd(",
-					"\">\n",
-					"dd(",
-					"abstract",
-					"bhf_front",
-					"Request"
+					"h2"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2248,16 +2379,48 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/dan/Sites/a17-dev-server/projects/elanco-affiliate-contentful/app/Console/Commands/ContentfulListEaPaths.php",
+							"file": "/Users/dan/Sites/a17-dev-server/projects/elanco-affiliate-contentful/.env",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 8030,
+								"buffer_size": 931,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										931,
+										931
+									]
+								],
+								"settings":
+								{
+									"git_gutter_enabled": true,
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/dan/Sites/a17-dev-server/projects/elanco-affiliate-contentful/beef.json",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 20830,
 								"regions":
 								{
 								},
@@ -2274,12 +2437,12 @@
 									"incomplete_sync": null,
 									"remote_loading": false,
 									"synced": false,
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 104.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -2290,7 +2453,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 23.0
+				"height": 25.0
 			},
 			"input":
 			{
@@ -2332,11 +2495,11 @@
 				"height": 198.0
 			},
 			"pinned_build_system": "",
-			"position": "1 440 85 1168 924 0 0 2048 1152 ",
+			"position": "1 64 75 1920 1054 0 0 2048 1129 ",
 			"project": "",
 			"replace":
 			{
-				"height": 42.0
+				"height": 46.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2346,12 +2509,236 @@
 				"selected_items":
 				[
 					[
-						"app.blad",
+						".env",
+						".env"
+					],
+					[
+						"read",
+						"README.md"
+					],
+					[
+						"postcon",
+						"app/Http/Controllers/PostController.php"
+					],
+					[
+						"pagecont",
+						"app/Http/Controllers/PageController.php"
+					],
+					[
+						"package",
+						"package.json"
+					],
+					[
+						"api.",
+						"routes/api.php"
+					],
+					[
+						"web",
+						"routes/web.php"
+					],
+					[
+						"upgrade",
+						"upgrade-wordpress.sh"
+					],
+					[
+						"upgr",
+						"upgrade-wordpress.sh"
+					],
+					[
+						".e",
+						".env"
+					],
+					[
+						".scss",
+						"our-work/scss/sstyle.scss"
+					],
+					[
+						"shortner",
+						"shortener.html"
+					],
+					[
+						"shortener.sc",
+						"scss/shortener.scss"
+					],
+					[
+						"sho",
+						"shortener.css"
+					],
+					[
+						"page.js",
+						"resources/assets/js/page.js"
+					],
+					[
+						"about",
+						"resources/views/about.blade.php"
+					],
+					[
+						"shrin",
+						"npm-shrinkwrap.json"
+					],
+					[
+						"webpac",
+						"webpack.mix.js"
+					],
+					[
+						"packag",
+						"package.json"
+					],
+					[
+						"webpa",
+						"webpack.mix.js"
+					],
+					[
+						"master",
+						"resources/views/layouts/master.blade.php"
+					],
+					[
+						"option-manager",
+						"node_modules/babel-core/lib/transformation/file/options/option-manager.js"
+					],
+					[
+						".babe",
+						"node_modules/bubleify/.babelrc"
+					],
+					[
+						".babel",
+						"node_modules/bubleify/.babelrc"
+					],
+					[
+						"webpack.mix",
+						"node_modules/laravel-mix/setup/webpack.mix.js"
+					],
+					[
+						"webpack.",
+						"webpack.mix.js"
+					],
+					[
+						"packa",
+						"package.json"
+					],
+					[
+						"composer",
+						"composer.json"
+					],
+					[
+						"webpack.mi",
+						"webpack.mix.js"
+					],
+					[
+						"presentation.scss",
+						"resources/assets/sass/presentation.scss"
+					],
+					[
+						"steelmas",
+						"resources/views/presentation/steelmaster.blade.php"
+					],
+					[
+						"ctu",
+						"resources/views/presentation/ctu.blade.php"
+					],
+					[
+						"shrink",
+						"npm-shrinkwrap.json"
+					],
+					[
+						"api",
+						"routes/api.php"
+					],
+					[
+						"data",
+						"config/database.php"
+					],
+					[
+						"usercon",
+						"app/Http/Controllers/UserController.php"
+					],
+					[
+						"prese",
+						"resources/views/presentation/presentation.blade.php"
+					],
+					[
+						"app.b",
 						"resources/views/layouts/app.blade.php"
+					],
+					[
+						"app.bla",
+						"resources/views/layouts/app.blade.php"
+					],
+					[
+						"presenpage",
+						"app/Http/Controllers/PresentationPageController.php"
 					],
 					[
 						"gulp",
 						"gulpfile.js"
+					],
+					[
+						"analo",
+						"resources/views/presentation/analog.blade.php"
+					],
+					[
+						"boots",
+						"bootstrap-user.sh"
+					],
+					[
+						"vagran",
+						"vagrant.yaml"
+					],
+					[
+						"vagrant-",
+						"vagrant-back.yaml"
+					],
+					[
+						"vagr",
+						"vagrant.yaml"
+					],
+					[
+						"add",
+						"add-project.sh"
+					],
+					[
+						"compose",
+						"composer.json"
+					],
+					[
+						"pagecon",
+						"app/Http/Controllers/PageController.php"
+					],
+					[
+						"compos",
+						"composer.lock"
+					],
+					[
+						"presentat",
+						"resources/assets/sass/presentation.scss"
+					],
+					[
+						"presentation.nlade",
+						"resources/views/presentation/presentation.blade.php"
+					],
+					[
+						"presentationpage",
+						"app/Http/Controllers/PresentationPageController.php"
+					],
+					[
+						"presen",
+						"resources/views/presentation/presentation.blade.php"
+					],
+					[
+						"stur",
+						"resources/views/presentation/sturbridge.blade.php"
+					],
+					[
+						"page",
+						"app/Http/Controllers/PageController.php"
+					],
+					[
+						"present",
+						"resources/views/presentation/presentation.blade.php"
+					],
+					[
+						"app.blad",
+						"resources/views/layouts/app.blade.php"
 					],
 					[
 						"presne",
@@ -2360,26 +2747,6 @@
 					[
 						"presentation.bla",
 						"resources/views/presentation/presentation.blade.php"
-					],
-					[
-						"upgrade",
-						"upgrade-wordpress.sh"
-					],
-					[
-						"web",
-						"webpack.mix.js"
-					],
-					[
-						"webpac",
-						"webpack.mix.js"
-					],
-					[
-						"compose",
-						"composer.lock"
-					],
-					[
-						"composer",
-						"composer.json"
 					],
 					[
 						"npm",
@@ -2398,16 +2765,8 @@
 						"npm-shrinkwrap.json"
 					],
 					[
-						"shrin",
-						"npm-shrinkwrap.json"
-					],
-					[
 						"webpack",
 						"node_modules/laravel-mix/setup/webpack.mix.js"
-					],
-					[
-						"packag",
-						"package.json"
 					],
 					[
 						"control",
@@ -2416,10 +2775,6 @@
 					[
 						"pageco",
 						"app/Http/Controllers/PageController.php"
-					],
-					[
-						"postcon",
-						"app/Http/Controllers/PostController.php"
 					],
 					[
 						"controller",
@@ -2432,10 +2787,6 @@
 					[
 						"contr",
 						"app/Http/Controllers/Controller.php"
-					],
-					[
-						"pagecon",
-						"app/Http/Controllers/PageController.php"
 					],
 					[
 						"postconr",
@@ -2470,47 +2821,15 @@
 						"resources/views/stewardship.blade.php"
 					],
 					[
-						"master",
-						"resources/views/layouts/master.blade.php"
-					],
-					[
 						"e611f0599b4859",
 						"storage/framework/views/e611f0599b48597806ded3484613b60b059c1410.php"
-					],
-					[
-						"shrink",
-						"npm-shrinkwrap.json"
-					],
-					[
-						"webpack.mi",
-						"node_modules/laravel-mix/setup/webpack.mix.js"
-					],
-					[
-						"webpack.mix",
-						"node_modules/laravel-mix/setup/webpack.mix.js"
 					],
 					[
 						"set",
 						"set-wp-env.php"
 					],
 					[
-						"add",
-						"add-project.sh"
-					],
-					[
 						"presentation.ba",
-						"resources/views/presentation/presentation.blade.php"
-					],
-					[
-						"packa",
-						"package.json"
-					],
-					[
-						"ctu",
-						"resources/views/presentation/ctu.blade.php"
-					],
-					[
-						"present",
 						"resources/views/presentation/presentation.blade.php"
 					],
 					[
@@ -2520,10 +2839,6 @@
 					[
 						"presentation",
 						"resources/assets/sass/presentation.scss"
-					],
-					[
-						".env",
-						".env"
 					],
 					[
 						"site.scss",
@@ -2578,20 +2893,12 @@
 						"node_modules/laravel-mix/setup/webpack.mix.js"
 					],
 					[
-						"compos",
-						"composer.json"
-					],
-					[
 						"w",
 						"webpack.mix.js"
 					],
 					[
 						"mix",
 						"public/mix-manifest.json"
-					],
-					[
-						"boots",
-						"bootstrap-user.sh"
 					],
 					[
 						"versioning",
@@ -2630,20 +2937,12 @@
 						"resources/views/about.blade.php"
 					],
 					[
-						"about",
-						"public/wordpress/wp-admin/about.php"
-					],
-					[
 						"post.b",
 						"resources/views/post.blade.php"
 					],
 					[
 						"_fonts",
 						"resources/assets/sass/_fonts.scss"
-					],
-					[
-						".e",
-						".env"
 					],
 					[
 						"customle",
@@ -2702,10 +3001,6 @@
 						"vendor/laravel/framework/src/Illuminate/Pagination/LengthAwarePaginator.php"
 					],
 					[
-						"page",
-						"resources/views/page.blade.php"
-					],
-					[
 						"fleet.",
 						"resources/views/fleet.blade.php"
 					],
@@ -2724,138 +3019,6 @@
 					[
 						"session",
 						"config/session.php"
-					],
-					[
-						"cahce",
-						"config/cache.php"
-					],
-					[
-						"paginationdefaul",
-						"vendor/laravel/framework/src/Illuminate/Pagination/resources/views/default.blade.php"
-					],
-					[
-						"postco",
-						"app/Http/Controllers/PostController.php"
-					],
-					[
-						"abstractpa",
-						"vendor/laravel/framework/src/Illuminate/Pagination/AbstractPaginator.php"
-					],
-					[
-						".gitin",
-						".gitignore"
-					],
-					[
-						"package",
-						"package.json"
-					],
-					[
-						"paginatordefu",
-						"vendor/laravel/framework/src/Illuminate/Pagination/resources/views/simple-default.blade.php"
-					],
-					[
-						".gt",
-						".gitignore"
-					],
-					[
-						"app.sc",
-						"resources/assets/sass/app.scss"
-					],
-					[
-						".gitig",
-						".gitignore"
-					],
-					[
-						"databasepul",
-						"vendor/alipes/database-pull/src/Database/Commands/DatabasePull.php"
-					],
-					[
-						"fleet",
-						"resources/views/fleet.blade.php"
-					],
-					[
-						"404",
-						"resources/views/errors/404.blade.php"
-					],
-					[
-						"stew",
-						"resources/views/stewardship.blade.php"
-					],
-					[
-						"produ",
-						"resources/views/product.blade.php"
-					],
-					[
-						"post.bla",
-						"resources/views/post.blade.php"
-					],
-					[
-						"postcont",
-						"app/Http/Controllers/PostController.php"
-					],
-					[
-						"produc",
-						"resources/views/product.blade.php"
-					],
-					[
-						"app.scs",
-						"resources/assets/sass/app.scss"
-					],
-					[
-						"_page",
-						"resources/assets/sass/_page-page.scss"
-					],
-					[
-						"configap",
-						"config/app.php"
-					],
-					[
-						"configapp",
-						"config/app.php"
-					],
-					[
-						"page.blade",
-						"resources/views/page.blade.php"
-					],
-					[
-						"com",
-						"composer.lock"
-					],
-					[
-						"postcp",
-						"app/Http/Controllers/PostController.php"
-					],
-					[
-						"page.bla",
-						"resources/views/page.blade.php"
-					],
-					[
-						"_produ",
-						"resources/assets/sass/_product-page.scss"
-					],
-					[
-						"filter",
-						"app/Http/Controllers/FilterController.php"
-					],
-					[
-						"72691baa7eaeb8d",
-						"storage/framework/views/72691baa7eaeb8dadc47d7475ed56b48bb924536.php"
-					],
-					[
-						"web.",
-						"public/web.config"
-					],
-					[
-						"_new",
-						"resources/views/partials/home/_news.blade.php"
-					],
-					[
-						"bootstapautolo",
-						"bootstrap/autoload.php"
-					],
-					[
-						"appserv",
-						"app/Providers/AppServiceProvider.php"
 					]
 				],
 				"width": 0.0
@@ -2886,12 +3049,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 253.0,
+			"side_bar_width": 266.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 266,
+			"window_id": 371,
 			"workspace_name": ""
 		}
 	],

@@ -7,8 +7,7 @@
 		"Vintage"
 	],
 	"tab_size": 4,
-	"theme": "Default.sublime-theme",
+	"theme": "Theme - Kronuz.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"word_wrap": false,
-	"theme": "Theme - Kronuz.sublime-theme"
+	"word_wrap": false
 }

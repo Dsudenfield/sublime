@@ -17,7 +17,9 @@
 		"HTML-CSS-JS Prettify",
 		"HTMLBeautify",
 		"JavaScript & NodeJS Snippets",
+		"JavaScript Snippets",
 		"jQuery",
+		"jQuery Snippets pack",
 		"Laravel 5 Artisan",
 		"Laravel Blade Highlighter",
 		"Laravel Forms Bootstrap Snippets",
@@ -25,6 +27,8 @@
 		"Package Control",
 		"PHP Companion",
 		"ReactJS Snippets",
+		"Sass",
+		"SCSS",
 		"SCSS Snippets",
 		"SFTP",
 		"SideBarEnhancements",
@@ -33,6 +37,7 @@
 		"Syntax Highlighting for Sass",
 		"Theme - Kronuz",
 		"Vue Syntax Highlight",
+		"Vuejs Complete Package",
 		"Vuejs Snippets"
 	]
 }
