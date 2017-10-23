@@ -1,3 +1,15 @@
 [
-    { "keys": ["f9"], "command" : "expand_fqcn"}
+    { "keys": ["f9"], "command" : "expand_fqcn"},
+    { "keys": ["super+alt+shift+l"],
+      "command": "insert_snippet",
+      "args": {
+        "contents": "console.log(${1:}$SELECTION);${0}"
+      }
+    },
+    { "keys": ["super+shift+d"],
+      "command": "insert_snippet",
+      "args": {
+        "contents": "dd(${1:}$SELECTION);${0}"
+      }
+    }
 ]

@@ -1,13 +1,30 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"binary_file_patterns":
+	[
+		"vendor/*",
+		"node_modules/*",
+		"public/*",
+		"storage/*"
+	],
+	"color_scheme": "Packages/User/SublimeLinter/Agila Monokai Extended (SL).tmTheme",
 	"draw_white_space": "all",
-	"font_size": 12,
+	"font_size": 13,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"kronuz_theme_fileicons": true,
+	"kronuz_theme_folder_animation": true,
+	"kronuz_theme_tree_indicator": true,
+	"open_files_in_new_window": false,
+	"show_panel_on_build": false,
 	"tab_size": 4,
-	"theme": "Theme - Kronuz.sublime-theme",
+	"theme": "Agila Monokai.sublime-theme",
+	"theme_agila_sidebar_mini": true,
 	"translate_tabs_to_spaces": true,
-	"word_wrap": false
+	"word_wrap": false,
+	"theme_agila_compact_tab": true,
+	"theme_agila_sidebar_font_small": true,
+	"theme_agila_compact_sidebar": true,
+	"theme_agila_active_tab_entry_white": true,
 }
