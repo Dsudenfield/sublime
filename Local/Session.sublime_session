@@ -1,6 +1,8 @@
 {
 	"folder_history":
 	[
+		"/Users/dan/Sites/a17-dev-server/projects/olympus",
+		"/Volumes/dan/bpm15",
 		"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel",
 		"/Users/dan/Sites/a17-dev-server/projects/eie-storybook",
 		"/Users/dan/Sites/a17-dev-server/projects/elanco-affiliate-contentful",
@@ -11,8 +13,6 @@
 		"/Users/dan/Sites/sudensel",
 		"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel",
 		"/Users/dan/Sites/dan/nuxt-test",
-		"/Users/dan/Sites/a17-dev-server/projects/olympus",
-		"/Volumes/dan/bpm15",
 		"/Volumes/dan",
 		"/Users/dan/Sites/a17-dev-server/projects/blue-harvest",
 		"/Users/dan/Sites/a17-dev-server/projects/arp-canada",
@@ -88,11 +88,11 @@
 		"/Users/dan/Sites/alz"
 	],
 	"last_version": 3143,
-	"last_window_id": 739,
+	"last_window_id": 743,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 1035.0,
+		"new_window_height": 1057.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -100,1372 +100,17 @@
 				"selected_items":
 				[
 					[
-						"trans",
-						"transition"
+						"current",
+						"current-chapter"
 					],
 					[
-						"break",
-						"breakpoint"
+						"min",
+						"manipulative_map"
 					],
 					[
-						"ali",
-						"align-self"
+						"source",
+						"source_manipulative"
 					],
-					[
-						"bac",
-						"background"
-					],
-					[
-						"margin",
-						"margin-left"
-					],
-					[
-						"text",
-						"text-decoration"
-					],
-					[
-						"cube_image_",
-						"cube_image_2.blade.php"
-					],
-					[
-						"icon-al",
-						"icon-alipes-chevron"
-					],
-					[
-						"mar",
-						"margin-left"
-					],
-					[
-						"fon",
-						"font-size"
-					],
-					[
-						"font",
-						"font-size"
-					],
-					[
-						"sp",
-						"span"
-					],
-					[
-						"in",
-						"inline"
-					],
-					[
-						"brea",
-						"breakpoint\t(site.scss)"
-					],
-					[
-						"cli",
-						"click\t.click()"
-					],
-					[
-						"vi",
-						"visible"
-					],
-					[
-						"spa",
-						"space-between"
-					],
-					[
-						"margi",
-						"margin-left"
-					],
-					[
-						"te",
-						"text-align"
-					],
-					[
-						"open",
-						"opened()\tfoundation.dropdown.js"
-					],
-					[
-						"align",
-						"align-self"
-					],
-					[
-						"col",
-						"column"
-					],
-					[
-						"al",
-						"align-self"
-					],
-					[
-						"backgro",
-						"background-color"
-					],
-					[
-						"mari",
-						"margin-right"
-					],
-					[
-						"font-",
-						"font-weight"
-					],
-					[
-						"margin-",
-						"margin-left"
-					],
-					[
-						"spac",
-						"space-around"
-					],
-					[
-						"space",
-						"space-between"
-					],
-					[
-						"after",
-						"a\").filter"
-					],
-					[
-						"border",
-						"border-bottom"
-					],
-					[
-						"jsut",
-						"justify-content"
-					],
-					[
-						"bord",
-						"border-left"
-					],
-					[
-						"marign",
-						"margin-top"
-					],
-					[
-						"align-",
-						"align-items"
-					],
-					[
-						"no",
-						"nowrap"
-					],
-					[
-						"just",
-						"justify-content"
-					],
-					[
-						"marg",
-						"margin-right"
-					],
-					[
-						"scirpt",
-						"scripts"
-					],
-					[
-						"re",
-						"relative"
-					],
-					[
-						"bor",
-						"border-bottom"
-					],
-					[
-						"tex",
-						"text-align"
-					],
-					[
-						"vie",
-						"view_name"
-					],
-					[
-						"webfont",
-						"webfontloader.js"
-					],
-					[
-						"ba-",
-						"jquery.ba-dotimeout.js"
-					],
-					[
-						"jquery",
-						"jquery-1.11.3.min.js\t(presentation_footer.js)"
-					],
-					[
-						"presena",
-						"presentation_historical"
-					],
-					[
-						"scr",
-						"scripts"
-					],
-					[
-						"componen",
-						"components"
-					],
-					[
-						"sync",
-						"sync_folders"
-					],
-					[
-						"array_m",
-						"array_merge"
-					],
-					[
-						"larave",
-						"LARAVEL"
-					],
-					[
-						"curr",
-						"currentChapter"
-					],
-					[
-						"err",
-						"error\t.error()"
-					],
-					[
-						"smal",
-						"small-12"
-					],
-					[
-						"eie-sot",
-						"eie-storybook-dev"
-					],
-					[
-						"setu",
-						"setupToc"
-					],
-					[
-						"set",
-						"setupToc"
-					],
-					[
-						"cha",
-						"chapter"
-					],
-					[
-						"bro",
-						"browser"
-					],
-					[
-						"br",
-						"browserData"
-					],
-					[
-						"brow",
-						"browserVersion"
-					],
-					[
-						"log",
-						"log\t(Book.vue)"
-					],
-					[
-						"geo",
-						"geographic_id"
-					],
-					[
-						"flo",
-						"float-right"
-					],
-					[
-						"pre",
-						"prepend\t.prepend()"
-					],
-					[
-						"console",
-						"console.log"
-					],
-					[
-						"clear",
-						"clearData"
-					],
-					[
-						"butt",
-						"buttonClass"
-					],
-					[
-						"la",
-						"language_code"
-					],
-					[
-						"langua",
-						"languageCode"
-					],
-					[
-						"cons",
-						"console.log\t(Book.vue)"
-					],
-					[
-						"users",
-						"user.settings_expanded.text_size"
-					],
-					[
-						"con",
-						"console.log\t(Book.vue)"
-					],
-					[
-						"cure",
-						"current"
-					],
-					[
-						"contain",
-						"container"
-					],
-					[
-						"Field",
-						"FieldError.vue\t(Book.vue)"
-					],
-					[
-						"field",
-						"FileUpload.vue"
-					],
-					[
-						"souce_ma",
-						"source_map_marker"
-					],
-					[
-						"source_m",
-						"source_map_marker"
-					],
-					[
-						"di",
-						"diagnosticsBus"
-					],
-					[
-						"Js",
-						"JSON"
-					],
-					[
-						"l",
-						"log\tlog"
-					],
-					[
-						"setti",
-						"settings_expanded"
-					],
-					[
-						"sma",
-						"small-12"
-					],
-					[
-						"me",
-						"medium-6"
-					],
-					[
-						"JSO",
-						"JSON_CONTENT_TYPE"
-					],
-					[
-						"iss",
-						"issuetype"
-					],
-					[
-						"tick",
-						"ticketKey"
-					],
-					[
-						"diag",
-						"diagnosticsField"
-					],
-					[
-						"edp",
-						"edp_points\t(Book.vue)"
-					],
-					[
-						"discuss",
-						"discussion_questions\t(Book.vue)"
-					],
-					[
-						"json",
-						"json_decode"
-					],
-					[
-						"ticket",
-						"ticket_type"
-					],
-					[
-						"medi",
-						"medium-10"
-					],
-					[
-						"edition",
-						"edition_id"
-					],
-					[
-						"en",
-						"environment\t(FeedbackFormModal.vue)"
-					],
-					[
-						"book",
-						"book_id"
-					],
-					[
-						"descr",
-						"descriptor"
-					],
-					[
-						"descript",
-						"descriptor\t(FeedbackFormModal.vue)"
-					],
-					[
-						"upload",
-						"uploadError"
-					],
-					[
-						"close",
-						"closeModal"
-					],
-					[
-						"padding",
-						"padding-top\t(Books.vue)"
-					],
-					[
-						"env",
-						"environment"
-					],
-					[
-						"desc",
-						"description"
-					],
-					[
-						"JIRA",
-						"JIRA_PASSWORD='Loom.penn.sara.spiro.toni.wile4\t(.env)"
-					],
-					[
-						"base6",
-						"base64_encode"
-					],
-					[
-						"Re",
-						"Request"
-					],
-					[
-						"max",
-						"maxHeight"
-					],
-					[
-						"org",
-						"original_filename"
-					],
-					[
-						"ca",
-						"catch"
-					],
-					[
-						"small",
-						"small-12\t(Pagination.vue)"
-					],
-					[
-						"sm",
-						"submitted\t(CmsUserController.php)"
-					],
-					[
-						"add",
-						"additional"
-					],
-					[
-						"synced",
-						"synced-folders"
-					],
-					[
-						"config",
-						"configuration"
-					],
-					[
-						"confi",
-						"configuration"
-					],
-					[
-						"mo",
-						"module_builder"
-					],
-					[
-						"apach",
-						"apacheSetup"
-					],
-					[
-						"config-",
-						"config-gulp"
-					],
-					[
-						"cac",
-						"cacheDriverSetup"
-					],
-					[
-						"cm",
-						"cmsSetup"
-					],
-					[
-						"array",
-						"array_keys"
-					],
-					[
-						"modi",
-						"module_builder"
-					],
-					[
-						"creat",
-						"createEnv"
-					],
-					[
-						"mod",
-						"module_builder"
-					],
-					[
-						"redi",
-						"redisSetup"
-					],
-					[
-						"generate",
-						"generateKey"
-					]
-				]
-			},
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 315.0,
-				"last_filter": "package lis",
-				"selected_items":
-				[
-					[
-						"package lis",
-						"Package Control: List Packages"
-					],
-					[
-						"package",
-						"Package Control: List Packages"
-					],
-					[
-						"beau",
-						"HTMLBeautify"
-					],
-					[
-						"packa",
-						"Package Control: Remove Package"
-					],
-					[
-						"pac",
-						"Package Control: List Packages"
-					],
-					[
-						"html",
-						"HTMLBeautify"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"pa",
-						"Package Control: List Packages"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"hym",
-						"HTMLBeautify"
-					],
-					[
-						"htmlb",
-						"HTMLBeautify"
-					],
-					[
-						"doc",
-						"Snippet: Start Docblock"
-					],
-					[
-						"htm",
-						"HTMLBeautify"
-					],
-					[
-						"htmlpr",
-						"HTMLPrettify"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
-						"pak",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 466.0
-			},
-			"console":
-			{
-				"height": 484.0,
-				"history":
-				[
-					"pwd",
-					"mkdir ~/bin",
-					"pear install PHP_CodeSniffer",
-					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-laravel/config/session.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/routes/api.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/sass/pages/_people.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/sass/pages/_contact.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/people.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/js/footer/site.js",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/layouts/page.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/index.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/work.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/js/components/Example.vue",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/package.json",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/sass/_mixins.scss",
-				"/Users/dan/Downloads/alipes (3)/style.css",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/sass/site.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/js/header/load-fonts.js",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/sass/_alipes-icon-font.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/webpack.mix.js",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/about.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/contact.blade.php",
-				"/Users/dan/Downloads/alipes/style.css",
-				"/Users/dan/Downloads/alipes (2)/style.css",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/public/svg/cube_image_2.svg",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/public/svg/cube_image_3.svg",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/public/svg/how_we_work.svg",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/svg/cube_image_1.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/public/img/svg/cube_image_1.svg",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/js/presentation_historical/app.js",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/js/footer/presentation.js",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/js/footer/page-home.js",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/svg/how_we_work.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/svg/cube_image_2.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/svg/cube_image_3.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/svg/cude_image_1.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/partials/_work-sub.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/js/app.js",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/work-boston-public-market.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/work-johnson-and-johnson.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/work-digital-future-alliance.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/work-museum-of-science.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/work-blue-harvest-fisheries.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/app/Bios.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/sass/presentation_historical/compass/reset/_utilities-legacy.sass",
-				"/Users/dan/Downloads/alipes (1) 2/style.css",
-				"/Users/dan/Downloads/alipes/selection.json",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/app/Http/Controllers/PageController.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/public/img/lilly.svg",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/app/Jobs.php",
-				"/Users/dan/Downloads/arrow.svg",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/.gitignore",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/routes/web.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/config/database.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/.env",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/public/bodymovin/how-we-work.json",
-				"/Users/dan/Downloads/About-Page/How-We-Work.svg",
-				"/Users/dan/Sites/a17-dev-server/projects/vue-ssr-x1/src/vuex/actions.js",
-				"/Users/dan/Sites/a17-dev-server/projects/vue-ssr-x1/src/vuex/getters.js",
-				"/Users/dan/Sites/a17-dev-server/projects/vue-ssr-x1/src/server/controllers/postController.js",
-				"/Users/dan/Sites/a17-dev-server/projects/vue-ssr-x1/knexfile.js",
-				"/Users/dan/Sites/a17-dev-server/projects/vue-ssr-x1/package.json",
-				"/Users/dan/Sites/a17-dev-server/projects/vue-ssr-x1/.env",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/work-jjs.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/js/presentation_historical/elanco-ad-gen.js",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/js/foundation.js",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/.babelrc",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/public/js/footer.ce458f266bd8db77f09d543bc8edd3ea.js",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/enough/enough.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/enough/enough-partner.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/enough/enough-partner-sub.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/enough/enough-learn.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/enough/enough-act.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/app/Http/Controllers/PresentationPageController.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/bpm/bpm.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/elanco/elanco-ad-gen.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/sass/_rotating-cubes.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/sass/_settings.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/state-street.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/layouts/presentation.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/sass/presentation.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/fidelity.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/sass/presentation_historical/site.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/sass/presentation_historical/presentation_historical.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/generic.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/fage.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/public/js/presentation_historical/footer.d41d8cd98f00b204e9800998ecf8427e.js",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/sass/presentation_historical/compass/_reset.sass",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/app/Http/Controllers/Controller.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/app/Http/Middleware/HttpSuperSimpleAuth.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/xml/sitemap.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/js/foundation.min.js",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/modals/modal.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/public/js/presentation_historical/footer.e233f46d6b4cdcd239c9566389ab9694.js",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/analog.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/layouts/presentation_historical.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/app/Page.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/winooski.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/wingstop.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/sturbridge.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/steelmaster.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/npaf.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/mos-simple.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/mos-moderate.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/mos-complex.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/mbg.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/intelligentsia.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/harvard.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/grounds-and-hounds.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/fabletics.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/ctu.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/presentation.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/privacy.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/sass/presentation_historical/presentation.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/js/presentation_historical/presentation_footer.js",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/js/presentation_historical/presentation_header.js",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/sass/_colors.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/public/robots.txt",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/config/app.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/app/Http/Kernel.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/composer.json",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/app/AlipesMarkdown.php",
-				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/webpack.mix.js",
-				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/views/errors/500.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-express/src/components/test.vue",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-express/server.js",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-express/package.json",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-express/src/main.server.js",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-express/webpack.config.js",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-express/src/main.js",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-express/index.html"
-			],
-			"find":
-			{
-				"height": 33.0
-			},
-			"find_in_files":
-			{
-				"height": 91.0,
-				"where_history":
-				[
-					"config/"
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"https"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 25.0
-			},
-			"input":
-			{
-				"height": 33.0
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 0.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"output.sftp":
-			{
-				"height": 0.0
-			},
-			"output.unsaved_changes":
-			{
-				"height": 198.0
-			},
-			"pinned_build_system": "",
-			"replace":
-			{
-				"height": 46.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"web.",
-						"routes/web.php"
-					],
-					[
-						"configapp",
-						"config/app.php"
-					],
-					[
-						"page.bla",
-						"resources/views/presentation/fage.blade.php"
-					],
-					[
-						"404",
-						"resources/views/errors/404.blade.php"
-					],
-					[
-						"api",
-						"routes/api.php"
-					],
-					[
-						"pac",
-						"package.json"
-					],
-					[
-						"people.b",
-						"resources/views/people.blade.php"
-					],
-					[
-						"_people",
-						"resources/assets/sass/pages/_people.scss"
-					],
-					[
-						"_work",
-						"resources/views/partials/_work-sub.blade.php"
-					],
-					[
-						"mo",
-						"resources/views/work-museum-of-science.blade.php"
-					],
-					[
-						"page",
-						"resources/views/layouts/page.blade.php"
-					],
-					[
-						"oeple",
-						"resources/assets/js/components/Example.vue"
-					],
-					[
-						"people",
-						"resources/views/people.blade.php"
-					],
-					[
-						"pack",
-						"package.json"
-					],
-					[
-						"work",
-						"resources/views/work.blade.php"
-					],
-					[
-						"_m",
-						"resources/assets/sass/_mixins.scss"
-					],
-					[
-						"site.scs",
-						"resources/assets/sass/site.scss"
-					],
-					[
-						"page.",
-						"resources/views/layouts/page.blade.php"
-					],
-					[
-						"fontscss",
-						"resources/assets/sass/_alipes-icon-font.scss"
-					],
-					[
-						"font",
-						"resources/assets/js/header/load-fonts.js"
-					],
-					[
-						"inde",
-						"resources/views/index.blade.php"
-					],
-					[
-						"site.js",
-						"resources/assets/js/footer/site.js"
-					],
-					[
-						"contac",
-						"resources/views/contact.blade.php"
-					],
-					[
-						"about",
-						"resources/views/about.blade.php"
-					],
-					[
-						"site.scss",
-						"resources/assets/sass/site.scss"
-					],
-					[
-						"web",
-						"webpack.mix.js"
-					],
-					[
-						"site",
-						"resources/assets/js/footer/site.js"
-					],
-					[
-						"icon",
-						"resources/assets/sass/_alipes-icon-font.scss"
-					],
-					[
-						"contact",
-						"resources/views/contact.blade.php"
-					],
-					[
-						"index",
-						"resources/views/index.blade.php"
-					],
-					[
-						"pageh",
-						"resources/assets/js/footer/page-home.js"
-					],
-					[
-						"prese",
-						"resources/assets/js/footer/presentation.js"
-					],
-					[
-						"webpac",
-						"webpack.mix.js"
-					],
-					[
-						"load-",
-						"resources/assets/js/header/load-fonts.js"
-					],
-					[
-						"_wor",
-						"resources/views/partials/_work-sub.blade.php"
-					],
-					[
-						"bio",
-						"app/Bios.php"
-					],
-					[
-						"bpm",
-						"resources/views/work-boston-public-market.blade.php"
-					],
-					[
-						"bhf",
-						"resources/views/work-blue-harvest-fisheries.blade.php"
-					],
-					[
-						"mos",
-						"resources/views/work-museum-of-science.blade.php"
-					],
-					[
-						"dfa",
-						"resources/views/work-digital-future-alliance.blade.php"
-					],
-					[
-						"joh",
-						"resources/views/work-johnson-and-johnson.blade.php"
-					],
-					[
-						"blueha",
-						"resources/views/work-blue-harvest-fisheries.blade.php"
-					],
-					[
-						"pa",
-						"package.json"
-					],
-					[
-						"mi",
-						"resources/assets/sass/_mixins.scss"
-					],
-					[
-						"page.bl",
-						"resources/views/layouts/page.blade.php"
-					],
-					[
-						"pagehome",
-						"resources/assets/js/footer/page-home.js"
-					],
-					[
-						"page-",
-						"resources/assets/js/footer/page-home.js"
-					],
-					[
-						"wrk",
-						"resources/views/partials/_work-sub.blade.php"
-					],
-					[
-						"home",
-						"resources/assets/js/footer/page-home.js"
-					],
-					[
-						"site.",
-						"resources/assets/js/footer/site.js"
-					],
-					[
-						"pacgecon",
-						"app/Http/Controllers/PageController.php"
-					],
-					[
-						"_mici",
-						"resources/assets/sass/_mixins.scss"
-					],
-					[
-						"peopel",
-						"resources/views/people.blade.php"
-					],
-					[
-						"scss",
-						"resources/assets/sass/site.scss"
-					],
-					[
-						"_mixi",
-						"resources/assets/sass/_mixins.scss"
-					],
-					[
-						"layouts",
-						"resources/views/layouts/page.blade.php"
-					],
-					[
-						"footer.js",
-						"resources/assets/js/footer/site.js"
-					],
-					[
-						".git",
-						".gitignore"
-					],
-					[
-						"packa",
-						"package.json"
-					],
-					[
-						"layoutspage",
-						"resources/views/layouts/page.blade.php"
-					],
-					[
-						"hom",
-						"resources/assets/js/footer/page-home.js"
-					],
-					[
-						"work.",
-						"resources/views/work.blade.php"
-					],
-					[
-						"jo",
-						"resources/views/work-johnson-and-johnson.blade.php"
-					],
-					[
-						"digi",
-						"resources/views/work-digital-future-alliance.blade.php"
-					],
-					[
-						"blu",
-						"resources/views/work-blue-harvest-fisheries.blade.php"
-					],
-					[
-						"bost",
-						"resources/views/work-boston-public-market.blade.php"
-					],
-					[
-						"site.ss",
-						"resources/assets/sass/site.scss"
-					],
-					[
-						"pacl",
-						"app/Http/Controllers/PageController.php"
-					],
-					[
-						"pak",
-						"package.json"
-					],
-					[
-						"webpack",
-						"webpack.mix.js"
-					],
-					[
-						"database",
-						"config/database.php"
-					],
-					[
-						".e",
-						".env"
-					],
-					[
-						"mix.",
-						"webpack.mix.js"
-					],
-					[
-						".scss",
-						"resources/assets/sass/site.scss"
-					],
-					[
-						"wor",
-						"resources/views/work.blade.php"
-					],
-					[
-						".en",
-						".env"
-					],
-					[
-						"app.vue",
-						"resources/assets/js/components/App.vue"
-					],
-					[
-						"layoutspa",
-						"resources/views/layouts/page.blade.php"
-					],
-					[
-						"elanco",
-						"resources/assets/js/presentation_historical/elanco-ad-gen.js"
-					],
-					[
-						"pagecon",
-						"app/Http/Controllers/PageController.php"
-					],
-					[
-						"_settings",
-						"resources/assets/sass/_settings.scss"
-					],
-					[
-						"job",
-						"app/Jobs.php"
-					],
-					[
-						"state",
-						"resources/views/presentation/state-street.blade.php"
-					],
-					[
-						"presentation",
-						"resources/views/layouts/presentation.blade.php"
-					],
-					[
-						"fon",
-						"resources/assets/js/header/load-fonts.js"
-					],
-					[
-						"footer/site",
-						"resources/assets/js/footer/site.js"
-					],
-					[
-						"load",
-						"resources/assets/js/header/load-fonts.js"
-					],
-					[
-						"loaf",
-						"resources/assets/js/header/load-fonts.js"
-					],
-					[
-						"we",
-						"webpack.mix.js"
-					],
-					[
-						"gitig",
-						".gitignore"
-					],
-					[
-						"app.js",
-						"resources/assets/js/app.js"
-					],
-					[
-						".gitign",
-						".gitignore"
-					],
-					[
-						"fideli",
-						"resources/views/presentation/fidelity.blade.php"
-					],
-					[
-						"gener",
-						"resources/views/presentation/generic.blade.php"
-					],
-					[
-						"presentation.js",
-						"resources/assets/js/footer/presentation.js"
-					],
-					[
-						"contr",
-						"app/Http/Controllers/Controller.php"
-					],
-					[
-						"presentat",
-						"app/Http/Controllers/PresentationPageController.php"
-					],
-					[
-						"controller",
-						"app/Http/Controllers/Controller.php"
-					],
-					[
-						"foundation.mi",
-						"resources/assets/js/foundation.min.js"
-					],
-					[
-						"hsitoricalapp",
-						"resources/assets/js/presentation_historical/app.js"
-					],
-					[
-						"presentati",
-						"app/Http/Controllers/PresentationPageController.php"
-					],
-					[
-						"f",
-						"resources/views/presentation/fidelity.blade.php"
-					],
-					[
-						"fage",
-						"resources/views/presentation/fage.blade.php"
-					],
-					[
-						"web.p",
-						"routes/web.php"
-					],
-					[
-						"web.h",
-						"routes/web.php"
-					],
-					[
-						"gitign",
-						".gitignore"
-					],
-					[
-						"wingst",
-						"resources/views/presentation/wingstop.blade.php"
-					],
-					[
-						"presentationco",
-						"app/Http/Controllers/PresentationPageController.php"
-					],
-					[
-						"moderate",
-						"resources/views/presentation/mos-moderate.blade.php"
-					],
-					[
-						"inte",
-						"resources/views/presentation/intelligentsia.blade.php"
-					],
-					[
-						"web.php",
-						"routes/web.php"
-					],
-					[
-						"pre",
-						"resources/views/presentation/presentation.blade.php"
-					],
-					[
-						"presentation.blade",
-						"resources/views/presentation/presentation.blade.php"
-					],
-					[
-						"fidelity",
-						"resources/views/presentation/fidelity.blade.php"
-					],
-					[
-						"fide",
-						"resources/views/presentation/fidelity.blade.php"
-					],
-					[
-						".giti",
-						".gitignore"
-					],
-					[
-						"prenset",
-						"app/Http/Controllers/PresentationPageController.php"
-					],
-					[
-						"prens",
-						"resources/views/presentation/presentation.blade.php"
-					],
-					[
-						"compo",
-						"composer.json"
-					],
-					[
-						".wa",
-						".watch-config.json"
-					],
-					[
-						"ath",
-						"auth.json"
-					],
-					[
-						"vagar",
-						"Vagrantfile"
-					],
-					[
-						"swi",
-						"switch-php-versions.sh"
-					],
-					[
-						"remove",
-						"remove-project.sh"
-					],
-					[
-						"add",
-						"add-project.sh"
-					],
-					[
-						"fileupla",
-						"resources/assets/js/components/admin/FileUpload.vue"
-					],
-					[
-						"getters",
-						"resources/assets/js/app/store/getters.js"
-					],
-					[
-						"fedbac",
-						"resources/assets/js/components/app/FeedbackFormModal.vue"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 381.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"",
-						"\"_\" + basename + ext)"
-					]
-				],
-				"width": 892.0
-			},
-			"show_minimap": false,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 228.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 1920.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
 					[
 						"fun",
 						"function"
@@ -1965,98 +610,22 @@
 					[
 						"modi",
 						"module_builder"
-					],
-					[
-						"creat",
-						"createEnv"
-					],
-					[
-						"mod",
-						"module_builder"
-					],
-					[
-						"redi",
-						"redisSetup"
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/js/components/app/Book.vue",
-					"settings":
-					{
-						"buffer_size": 48210,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/dan/Sites/a17-dev-server/projects/eie-storybook/routes/api.php",
-					"settings":
-					{
-						"buffer_size": 3871,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/dan/Sites/a17-dev-server/projects/eie-storybook/app/Http/Controllers/CmsSlideController.php",
-					"settings":
-					{
-						"buffer_size": 2647,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/js/components/app/BodyMovinTest.vue",
-					"settings":
-					{
-						"buffer_size": 10250,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/dan/Sites/a17-dev-server/projects/eie-storybook/.env",
-					"settings":
-					{
-						"buffer_size": 455,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/dan/Sites/a17-dev-server/projects/eie-storybook/package.json",
-					"settings":
-					{
-						"buffer_size": 2892,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/dan/Sites/a17-dev-server/projects/eie-storybook/routes/web.php",
-					"settings":
-					{
-						"buffer_size": 1149,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
 			"build_system_choices":
 			[
 			],
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 315.0,
+				"height": 384.0,
 				"last_filter": "package lis",
 				"selected_items":
 				[
 					[
 						"package lis",
-						"Package Control: List Packages"
+						"Package Control: Disable Package"
 					],
 					[
 						"package",
@@ -2119,7 +688,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 466.0
+				"width": 448.0
 			},
 			"console":
 			{
@@ -2141,24 +710,45 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook",
-				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources",
-				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets",
-				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/js",
-				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/js/components",
-				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/js/components/app",
-				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/js/components/modal"
-			],
 			"file_history":
 			[
-				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/js/components/app/ManipulativeModal.vue",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/app/Slide.php",
 				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/js/components/admin/Slide.vue",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/package.json",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/app/Http/Controllers/CmsSlideController.php",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/js/app.js",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/js/components/app/ManipulativeModal.vue",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/js/components/admin/AssetSelector.vue",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/database/migrations/2017_10_24_152417_add_has_relation_to_slides_table.php",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/js/components/app/Book.vue",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/js/components/app/ModalScrim.vue",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/sass/app.scss",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/sass/common/_storybook-icon-font.scss",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/sass/common/_common.scss",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/sass/app/_top-bar.scss",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/sass/app/_slider.scss",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/js/components/app/Toc.vue",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/sass/app/_toc.scss",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/app/Pronunciation.php",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/app/VocabularyTerm.php",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/app/Http/Controllers/CmsBookController.php",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/database/migrations/2017_10_23_181318_update_pronunciations_table.php",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/app/Manipulative.php",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/database/migrations/2017_10_23_155241_update_manipulatives_table.php",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/database/migrations/2017_06_12_145557_add_hash_to_assets.php",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/database/migrations/2017_10_23_155223_update_slides_table.php",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/database/migrations/2017_08_15_185941_add_language_code_to_edition.php",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/js/components/mixins/admin/EndpointsMixin.js",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/js/components/admin/Book.vue",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/routes/web.php",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/routes/api.php",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/js/components/admin/ImportUpload.vue",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/js/components/app/BodyMovinTest.vue",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/.env",
+				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/js/components/admin/Manipulative.vue",
 				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/views/errors/404.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/views/admin/layouts/page.blade.php",
 				"/Users/dan/Downloads/Fadil-Full-SVG/data.json",
-				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/js/components/admin/Manipulative.vue",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/js/components/Example.vue",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/package.json",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/sass/_mixins.scss",
@@ -2249,48 +839,22 @@
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/analog.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/layouts/presentation_historical.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/app/Page.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/winooski.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/wingstop.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/sturbridge.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/steelmaster.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/npaf.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/mos-simple.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/mos-moderate.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/mos-complex.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/mbg.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/intelligentsia.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/harvard.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/grounds-and-hounds.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/fabletics.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/ctu.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/presentation.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/privacy.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/sass/presentation_historical/presentation.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/js/presentation_historical/presentation_footer.js",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/js/presentation_historical/presentation_header.js",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/sass/_colors.scss",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/public/robots.txt",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/config/app.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/app/Http/Kernel.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/composer.json",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/app/AlipesMarkdown.php",
-				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/webpack.mix.js",
-				"/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/views/errors/500.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-express/src/components/test.vue",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-express/server.js",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-express/package.json",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-express/src/main.server.js",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-express/webpack.config.js"
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/presentation/winooski.blade.php"
 			],
 			"find":
 			{
-				"height": 33.0
+				"height": 41.0
 			},
 			"find_in_files":
 			{
-				"height": 91.0,
+				"height": 115.0,
 				"where_history":
 				[
+					"resources/assets/",
+					"app/",
+					"database/migrations/",
+					"app/",
+					"resources/assets/js/"
 				]
 			},
 			"find_state":
@@ -2298,6 +862,50 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"$store",
+					"current",
+					"__sanitizeData",
+					"currentChapter",
+					"currentPage",
+					"currentChapter",
+					"this.current",
+					"currentChapter",
+					"$store",
+					"state",
+					"imagesLoaded",
+					"imageLo",
+					"vue-images-loaded",
+					"vue-analytics",
+					"this.slides",
+					"v",
+					"frames",
+					"Number",
+					"this",
+					"$bestGuess) {\n                return $bestGuess;\n            } else {\n                return null;\n            }\n        },\n        guessCurrentChapterFromPosition() {\n            var $bestGuess =\n                this.guessFirstElementOnPage('[data-chapter-marker]', false);\n\n            if ($bestGuess) {\n                this.currentChapter = $bestGuess.data('chapter-marker');\n                // add page to\n                this.$store.commit('diagnostics', {currentChapter: th",
+					"},\n",
+					"guessCurrentChapterFromPosition",
+					"handlePageCountMayHaveChanged",
+					"count",
+					"page",
+					"tocItemClicked",
+					"icon-geographic-interactive",
+					".modal",
+					"text-transform: uppercase;",
+					"    /* text-transform: uppercase; */",
+					"text-transform: uppercase;",
+					"button",
+					"slides",
+					"question_map",
+					"Pronunciation",
+					"hash",
+					"has",
+					"setCalculatedFields",
+					"edp_map",
+					"map_tour_map",
+					"manipulat",
+					"/export",
+					"oneBookExportEndpoint",
+					"previousPage",
 					"modal",
 					"key",
 					"previous",
@@ -2339,301 +947,13 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"path": "/Users/dan/Sites/a17-dev-server/projects/eie-storybook"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/js/components/app/Book.vue",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 48210,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										27611,
-										27611
-									]
-								],
-								"settings":
-								{
-									"git_gutter_is_enabled": true,
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 10836.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 4,
-					"sheets":
-					[
-						{
-							"buffer": 1,
-							"file": "/Users/dan/Sites/a17-dev-server/projects/eie-storybook/routes/api.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3871,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3291,
-										3296
-									]
-								],
-								"settings":
-								{
-									"git_gutter_is_enabled": true,
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/Users/dan/Sites/a17-dev-server/projects/eie-storybook/app/Http/Controllers/CmsSlideController.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2647,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2108,
-										2108
-									]
-								],
-								"settings":
-								{
-									"git_gutter_is_enabled": true,
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 440.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/Users/dan/Sites/a17-dev-server/projects/eie-storybook/resources/assets/js/components/app/BodyMovinTest.vue",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 10250,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										5259,
-										5259
-									]
-								],
-								"settings":
-								{
-									"git_gutter_is_enabled": true,
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 2268.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/Users/dan/Sites/a17-dev-server/projects/eie-storybook/.env",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 455,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										88,
-										88
-									],
-									[
-										201,
-										201
-									]
-								],
-								"settings":
-								{
-									"git_gutter_is_enabled": true,
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/Users/dan/Sites/a17-dev-server/projects/eie-storybook/package.json",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2892,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										84,
-										87
-									]
-								],
-								"settings":
-								{
-									"git_gutter_is_enabled": true,
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Seti_UI/icons/Langs/Npm (JSON).tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/Users/dan/Sites/a17-dev-server/projects/eie-storybook/routes/web.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1149,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										970,
-										970
-									]
-								],
-								"settings":
-								{
-									"git_gutter_is_enabled": true,
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/PHP/PHP.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						}
-					]
-				}
-			],
 			"incremental_find":
 			{
-				"height": 32.0
+				"height": 27.0
 			},
 			"input":
 			{
 				"height": 33.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					0.767231461016,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
 			},
 			"menu_visible": true,
 			"output.exec":
@@ -2653,11 +973,9 @@
 				"height": 198.0
 			},
 			"pinned_build_system": "",
-			"position": "1 64 72 1920 1057 0 0 2048 1129 ",
-			"project": "",
 			"replace":
 			{
-				"height": 46.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2666,6 +984,74 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"feedbac",
+						"resources/assets/js/components/app/FeedbackFormModal.vue"
+					],
+					[
+						"book.vue",
+						"resources/assets/js/components/app/Book.vue"
+					],
+					[
+						"book",
+						"resources/assets/js/components/app/Book.vue"
+					],
+					[
+						"packa",
+						"package.json"
+					],
+					[
+						"slide",
+						"app/Slide.php"
+					],
+					[
+						"man",
+						"resources/assets/js/components/app/ManipulativeModal.vue"
+					],
+					[
+						"modalsc",
+						"resources/assets/js/components/app/ModalScrim.vue"
+					],
+					[
+						"toc",
+						"resources/assets/js/components/app/Toc.vue"
+					],
+					[
+						"app.",
+						"resources/assets/sass/app.scss"
+					],
+					[
+						"maniou",
+						"resources/assets/js/components/app/ManipulativeModal.vue"
+					],
+					[
+						"cmsbookco",
+						"app/Http/Controllers/CmsBookController.php"
+					],
+					[
+						"cmsbook",
+						"app/Http/Controllers/CmsBookController.php"
+					],
+					[
+						"web.ph",
+						"routes/web.php"
+					],
+					[
+						"api",
+						"routes/api.php"
+					],
+					[
+						"endpo",
+						"resources/assets/js/components/mixins/admin/EndpointsMixin.js"
+					],
+					[
+						"import",
+						"resources/assets/js/components/admin/ImportUpload.vue"
+					],
+					[
+						"manipu",
+						"resources/assets/js/components/app/ManipulativeModal.vue"
+					],
 					[
 						"pack",
 						"package.json"
@@ -2899,10 +1285,6 @@
 						".gitignore"
 					],
 					[
-						"packa",
-						"package.json"
-					],
-					[
 						"layoutspage",
 						"resources/views/layouts/page.blade.php"
 					],
@@ -3113,70 +1495,6 @@
 					[
 						"presentation.blade",
 						"resources/views/presentation/presentation.blade.php"
-					],
-					[
-						"fidelity",
-						"resources/views/presentation/fidelity.blade.php"
-					],
-					[
-						"fide",
-						"resources/views/presentation/fidelity.blade.php"
-					],
-					[
-						".giti",
-						".gitignore"
-					],
-					[
-						"prenset",
-						"app/Http/Controllers/PresentationPageController.php"
-					],
-					[
-						"prens",
-						"resources/views/presentation/presentation.blade.php"
-					],
-					[
-						"compo",
-						"composer.json"
-					],
-					[
-						".wa",
-						".watch-config.json"
-					],
-					[
-						"ath",
-						"auth.json"
-					],
-					[
-						"vagar",
-						"Vagrantfile"
-					],
-					[
-						"swi",
-						"switch-php-versions.sh"
-					],
-					[
-						"remove",
-						"remove-project.sh"
-					],
-					[
-						"add",
-						"add-project.sh"
-					],
-					[
-						"fileupla",
-						"resources/assets/js/components/admin/FileUpload.vue"
-					],
-					[
-						"getters",
-						"resources/assets/js/app/store/getters.js"
-					],
-					[
-						"fedbac",
-						"resources/assets/js/components/app/FeedbackFormModal.vue"
-					],
-					[
-						"mutat",
-						"resources/assets/js/app/store/mutations.js"
 					]
 				],
 				"width": 0.0
@@ -3192,7 +1510,7 @@
 			},
 			"select_symbol":
 			{
-				"height": 381.0,
+				"height": 384.0,
 				"last_filter": "",
 				"selected_items":
 				[
@@ -3201,24 +1519,22 @@
 						"\"_\" + basename + ext)"
 					]
 				],
-				"width": 530.0
-			},
-			"selected_group": 1,
-			"settings":
-			{
+				"width": 1165.0
 			},
 			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 326.0,
+			"side_bar_width": 50.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
-			},
-			"window_id": 737,
-			"workspace_name": ""
+			}
 		},
+		"new_window_width": 1920.0
+	},
+	"windows":
+	[
 		{
 			"auto_complete":
 			{
@@ -3741,20 +2057,34 @@
 			"buffers":
 			[
 				{
-					"file": "/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/work-blue-harvest-fisheries.blade.php",
+					"file": "/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/layouts/page.blade.php",
 					"settings":
 					{
-						"buffer_size": 832,
-						"encoding": "UTF-8",
+						"buffer_size": 5881,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/work-digital-future-alliance.blade.php",
+					"file": "/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/package.json",
 					"settings":
 					{
-						"buffer_size": 946,
-						"encoding": "UTF-8",
+						"buffer_size": 2740,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/sass/site.scss",
+					"settings":
+					{
+						"buffer_size": 12523,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/sass/pages/_people.scss",
+					"settings":
+					{
+						"buffer_size": 10280,
 						"line_ending": "Unix"
 					}
 				},
@@ -3774,10 +2104,14 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 381.0,
-				"last_filter": "bea",
+				"height": 117.0,
+				"last_filter": "install",
 				"selected_items":
 				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
 					[
 						"bea",
 						"HTMLBeautify"
@@ -3805,10 +2139,6 @@
 					[
 						"html",
 						"HTMLBeautify"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"pa",
@@ -3872,21 +2202,14 @@
 			"expanded_folders":
 			[
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/config",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/public",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/public/audio",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/public/img",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/public/img/work",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/public/img/work/bpm",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/public/img/work/dfa",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/public/img/work/featured-work",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/public/img/work/mos",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views"
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/public/img"
 			],
 			"file_history":
 			[
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/app/Bios.php",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/work-digital-future-alliance.blade.php",
+				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/work-blue-harvest-fisheries.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/js/footer/site.js",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/about.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/work.blade.php",
@@ -3900,14 +2223,12 @@
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/layouts/page.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/work-museum-of-science.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/work-johnson-and-johnson.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/work-digital-future-alliance.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/work-boston-public-market.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/sass/_alipes-icon-font.scss",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/public/favicon.ico",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/routes/web.php",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/.gitignore",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/people.blade.php",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/app/Bios.php",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/app/Http/Controllers/PageController.php",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/config/session.php",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/app/Http/Controllers/Controller.php",
@@ -3935,7 +2256,6 @@
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/svg/cube_image_3.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/svg/cude_image_1.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/js/app.js",
-				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/work-blue-harvest-fisheries.blade.php",
 				"/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/sass/presentation_historical/compass/reset/_utilities-legacy.sass",
 				"/Users/dan/Downloads/alipes (1) 2/style.css",
 				"/Users/dan/Downloads/alipes/selection.json",
@@ -4018,7 +2338,7 @@
 			],
 			"find":
 			{
-				"height": 33.0
+				"height": 41.0
 			},
 			"find_in_files":
 			{
@@ -4039,6 +2359,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"mon",
+					"mono",
 					"_",
 					"wrapper",
 					"alipes.m4a",
@@ -4164,9 +2486,7 @@
 					"work/JnJ",
 					"work/DFA",
 					"work/JnJ",
-					"work/BHF",
-					"BHF",
-					"000000"
+					"work/BHF"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -4190,24 +2510,24 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 3,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/work-blue-harvest-fisheries.blade.php",
+							"file": "/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/layouts/page.blade.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 832,
+								"buffer_size": 5881,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										169,
-										169
+										138,
+										137
 									]
 								],
 								"settings":
@@ -4216,30 +2536,99 @@
 									"incomplete_sync": null,
 									"remote_loading": false,
 									"synced": false,
-									"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax"
+									"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 2.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/package.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2740,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1,
+										1
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Seti_UI/icons/Langs/Npm (JSON).tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 8.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/sass/site.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12523,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										958,
+										958
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 341.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
 							"type": "text"
 						},
 						{
-							"buffer": 1,
-							"file": "/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/views/work-digital-future-alliance.blade.php",
+							"buffer": 3,
+							"file": "/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/resources/assets/sass/pages/_people.scss",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 946,
+								"buffer_size": 10280,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										946,
-										946
+										3261,
+										3261
 									]
 								],
 								"settings":
@@ -4248,10 +2637,12 @@
 									"incomplete_sync": null,
 									"remote_loading": false,
 									"synced": false,
-									"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax"
+									"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 2256.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -4264,7 +2655,7 @@
 					"sheets":
 					[
 						{
-							"buffer": 2,
+							"buffer": 4,
 							"file": "/Users/dan/Sites/a17-dev-server/projects/alipes-17-laravel/routes/web.php",
 							"semi_transient": false,
 							"settings":
@@ -4290,11 +2681,11 @@
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.x": 81.0,
+								"translation.y": 41.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 4,
 							"type": "text"
 						}
 					]
@@ -4302,7 +2693,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 25.0
+				"height": 27.0
 			},
 			"input":
 			{
@@ -4355,11 +2746,11 @@
 				"height": 198.0
 			},
 			"pinned_build_system": "",
-			"position": "1 81 72 1920 1057 0 0 2048 1129 ",
+			"position": "1 74 72 1920 1057 0 0 2048 1129 ",
 			"project": "",
 			"replace":
 			{
-				"height": 46.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -4368,6 +2759,22 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"_people",
+						"resources/assets/sass/pages/_people.scss"
+					],
+					[
+						"site.scs",
+						"resources/assets/sass/site.scss"
+					],
+					[
+						"pac",
+						"package.json"
+					],
+					[
+						"page.bla",
+						"resources/views/layouts/page.blade.php"
+					],
 					[
 						"dig",
 						"resources/views/work-digital-future-alliance.blade.php"
@@ -4397,16 +2804,8 @@
 						".env"
 					],
 					[
-						"_people",
-						"resources/assets/sass/pages/_people.scss"
-					],
-					[
 						".en",
 						".env"
-					],
-					[
-						"page.bla",
-						"resources/views/layouts/page.blade.php"
 					],
 					[
 						"contat",
@@ -4489,10 +2888,6 @@
 						"routes/api.php"
 					],
 					[
-						"pac",
-						"package.json"
-					],
-					[
 						"people.b",
 						"resources/views/people.blade.php"
 					],
@@ -4519,10 +2914,6 @@
 					[
 						"_m",
 						"resources/assets/sass/_mixins.scss"
-					],
-					[
-						"site.scs",
-						"resources/assets/sass/site.scss"
 					],
 					[
 						"page.",
@@ -4913,7 +3304,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 258.0,
+			"side_bar_width": 143.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
