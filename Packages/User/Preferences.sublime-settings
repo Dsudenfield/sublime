@@ -8,9 +8,10 @@
 	],
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"draw_white_space": "all",
-	"font_size": 13,
+	"font_size": 12,
 	"ignored_packages":
 	[
+		"SublimeLinter-php",
 		"Theme - Kronuz",
 		"Vintage"
 	],
