@@ -1,17 +1,17 @@
 {
 	"binary_file_patterns":
 	[
-		"vendor/*",
-		"node_modules/*",
-		"public/*",
-		"storage/*"
+		"public/css/*",
+		"public/js/*",
+		"public/wordpress/*",
+		"storage/*",
+		"node_modules/*"
 	],
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"draw_white_space": "all",
-	"font_size": 12,
+	"font_size": 14,
 	"ignored_packages":
 	[
-		"SublimeLinter-php",
 		"Theme - Kronuz",
 		"Vintage"
 	],
